@@ -1,2379 +1,2402 @@
 [
-    {
-        "question": "Which of the following is not a feature of a village?",
-        "options": {
-            "A": "Less population",
-            "B": "Less diversity",
-            "C": "Impersonal relationship",
-            "D": "Predominance of primary sector and allied activities"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which among the following is not a form of diversity in India?",
-        "options": {
-            "A": "Geographical diversity",
-            "B": "Linguistic diversity",
-            "C": "Religious diversity",
-            "D": "None of the above"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Caste is not a/an ............",
-        "options": {
-            "A": "Endogamous system",
-            "B": "Hereditary system",
-            "C": "Hierarchical system",
-            "D": "Exogamous system"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Marriage of one man with several sisters is called ............",
-        "options": {
-            "A": "Monogamous marriage",
-            "B": "Sororal polygyny",
-            "C": "Non-Sororal polygyny",
-            "D": "Levirate"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The Hindu Marriage Act was enacted in the year ............",
-        "options": {
-            "A": "1945",
-            "B": "1955",
-            "C": "1965",
-            "D": "1975"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "‘History of Human Marriage’ is written by ............",
-        "options": {
-            "A": "Malinowski",
-            "B": "Westermarck",
-            "C": "A.R. Desai",
-            "D": "S.C. Dube"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "More women and less men may lead to ............",
-        "options": {
-            "A": "Polygamy",
-            "B": "Polygyny",
-            "C": "Polyandry",
-            "D": "None of the above"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which among the following is not an endogamous group?",
-        "options": {
-            "A": "Caste",
-            "B": "Varna",
-            "C": "Gotra",
-            "D": "Religion"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Kinship relations established through blood is called ............",
-        "options": {
-            "A": "Affinal",
-            "B": "Conjugal",
-            "C": "Consanguineous",
-            "D": "None of the above"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Marriage of high caste man with a low caste woman is called ............",
-        "options": {
-            "A": "Hypogamy",
-            "B": "Hypergamy",
-            "C": "Monogamy",
-            "D": "Endogamy"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "When a man marries the sister of his deceased wife is called ............",
-        "options": {
-            "A": "Exogamy",
-            "B": "Endogamy",
-            "C": "Sororate",
-            "D": "Levirate"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following factors may bring changes in marriage system?",
-        "options": {
-            "A": "Traditional values",
-            "B": "Customs",
-            "C": "Folkways",
-            "D": "Modern education"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Private property in land was introduced in India during ............",
-        "options": {
-            "A": "Ancient period",
-            "B": "Medieval period",
-            "C": "British period",
-            "D": "After Independence"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Fragmentation of land may not lead to ............",
-        "options": {
-            "A": "Less yielding",
-            "B": "Poverty",
-            "C": "Higher production",
-            "D": "Growth of indebtedness"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The example of non-cultivating owners of land is ............",
-        "options": {
-            "A": "Absentee landlord",
-            "B": "Farmers",
-            "C": "Peasants",
-            "D": "None of the above"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The full form of OBC is ............",
-        "options": {
-            "A": "Other Backward Class",
-            "B": "Other Backward Caste",
-            "C": "Over Backward Class",
-            "D": "Over Backward Caste"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Common territory is a feature of ............",
-        "options": {
-            "A": "SC",
-            "B": "ST",
-            "C": "OBC",
-            "D": "All of the above"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Geographical isolation is a problem for ............",
-        "options": {
-            "A": "Caste",
-            "B": "Class",
-            "C": "Tribe",
-            "D": "Religion"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following statement is NOT correct about Pradhan Mantri Kaushal Vikas Yojna?",
-        "options": {
-            "A": "It was launched in March 2015.",
-            "B": "It will be implemented by the ministry of skill development and entrepreneurship.",
-            "C": "It will provide training to 300 million youths.",
-            "D": "It will focus on the class X and class XII students."
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Launching of Sansad Adarsh Gram Yojna is related to ............",
-        "options": {
-            "A": "Vallabh Bhai Patel",
-            "B": "Deen Dayal Upadhyay",
-            "C": "Mahatma Gandhi",
-            "D": "Jai Prakash Narayan"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Jawahar Gram Samriddhi Yojna was launched in ............",
-        "options": {
-            "A": "1999",
-            "B": "2001",
-            "C": "1996",
-            "D": "1995"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "‘TRYSEM’ is a programme made for ............",
-        "options": {
-            "A": "Employment to Rural youths",
-            "B": "Employment to Urban youths",
-            "C": "Development of nutrition intake in the food of poor of the country",
-            "D": "Providing road connectivity to the villages"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "When was the National Horticulture Mission launched?",
-        "options": {
-            "A": "2001",
-            "B": "2010",
-            "C": "2005",
-            "D": "2007"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "A scientific distinction between rural and urban community can be made on the basis of ............",
-        "options": {
-            "A": "Density of population",
-            "B": "Area covered"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Industrialization weakens the ............",
-        "options": {
-            "A": "Role of religion in social life",
-            "B": "Father’s authority in the family",
-            "C": "Caste system",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Unlike village community, urban society lacks in ............",
-        "options": {
-            "A": "Secondary social control",
-            "B": "Social tolerance",
-            "C": "Self-sufficiency",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "............... is a self-contained unit where members share a sense of belonging and a common territorial base.",
-        "options": {
-            "A": "Society",
-            "B": "Community",
-            "C": "Association",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": ".............. is the term used to refer to the relationship between human beings and their physical environment.",
-        "options": {
-            "A": "Human physiology",
-            "B": "Human ecology",
-            "C": "Human environment",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The change in village community may be seen in ............",
-        "options": {
-            "A": "Caste system",
-            "B": "Jajmani system",
-            "C": "Family system",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Why did villages in India tend to have more autonomy than villages in surrounding countries?",
-        "options": {
-            "A": "Villages in India were recognized as independent social units, each with their own council of leaders",
-            "B": "Each village in India had its own army, which meant that villages had more political autonomy",
-            "C": "Villages in India had higher income which meant that villages had more economic autonomy",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Why are the villages in India witnessing a change in their overall economic activities?",
-        "options": {
-            "A": "Bigger families and less sources of income",
-            "B": "Small agricultural lands with less productivity",
-            "C": "After getting educated, the younger generation does not want to stay in the villages",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "In India, which of the following year the Department of Ministry for Women and Child development was formed?",
-        "options": {
-            "A": "1983",
-            "B": "1985",
-            "C": "1987",
-            "D": "1991"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following factors are responsible for contributing in social change?",
-        "options": {
-            "A": "Cultural pluralism",
-            "B": "Outstanding leadership",
-            "C": "Technological development",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "There were several evil social practices like sati, child marriage, ban on widow remarriage, practice of polygamy, etc., which was a matter of debate during...............",
-        "options": {
-            "A": "17th Century",
-            "B": "18th Century",
-            "C": "19th Century",
-            "D": "20th Century"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Schedule V and VI of the Indian constitution are related to ............",
-        "options": {
-            "A": "Decide state boundaries between the states",
-            "B": "Decide the powers and responsibilities of Panchayat Raj",
-            "C": "Protection of rights of tribals",
-            "D": "Protection of minorities in the country"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which one of the following is not the basis of community?",
-        "options": {
-            "A": "Common locality",
-            "B": "Community sentiment",
-            "C": "Common political ideology",
-            "D": "Common way of life"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which among the following is the distinctive characteristic of human society?",
-        "options": {
-            "A": "Capacity to propagate offspring",
-            "B": "Aggressive behaviour",
-            "C": "Culture",
-            "D": "Self or We feeling"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "...................... is a socially defined position in a group or society.",
-        "options": {
-            "A": "Role",
-            "B": "Interaction",
-            "C": "Status",
-            "D": "Deviance"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Farming is the chief occupation of the people belonging to ............",
-        "options": {
-            "A": "The pastoral classes",
-            "B": "The agricultural classes",
-            "C": "The commercial classes",
-            "D": "None of the above"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "In an agrarian society, who are living by tilling the lands of others on a crop-sharing basis?",
-        "options": {
-            "A": "Cultivators",
-            "B": "Share croppers",
-            "C": "Overseers",
-            "D": "Seasonal peasants"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Patriarchal society means ............",
-        "options": {
-            "A": "A society dominated by men",
-            "B": "A society dominated by women",
-            "C": "A society where there is equality between men and women",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The Equal Remuneration Act, of _______ provides that equal wages should be paid to equal work.",
-        "options": {
-            "A": "1977",
-            "B": "1976",
-            "C": "1986",
-            "D": "2021"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The National Average of child sex ratio (number of girl children per thousand boys) in the country as per Census 2011 was ............",
-        "options": {
-            "A": "961",
-            "B": "944",
-            "C": "914",
-            "D": "1020"
-        },
-        "answer": "C"
-    },
-    {
-        "question": ".................. are those laws that deal with family-related matters such as marriage, divorce, adoption, inheritance, etc.",
-        "options": {
-            "A": "Family Laws",
-            "B": "Law of Inheritance",
-            "C": "Religious Laws",
-            "D": "State Laws"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Deforestation may reduce the chances of ............",
-        "options": {
-            "A": "Rainfall",
-            "B": "Soil Erosion",
-            "C": "Landslides",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "What is the main significance of sustainable development?",
-        "options": {
-            "A": "To preserve the natural resources for the needs of the future generation",
-            "B": "To exploit the available resource for rapid improvement",
-            "C": "To increase the cost of available natural resources",
-            "D": "To increase the reservoirs of natural resources"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following is not a natural resource?",
-        "options": {
-            "A": "Water",
-            "B": "Electricity",
-            "C": "Air",
-            "D": "Soil"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which sector is the backbone of the Indian economy?",
-        "options": {
-            "A": "Agriculture sector",
-            "B": "Industrial sector",
-            "C": "Financial Sector",
-            "D": "Tourism Sector"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which among the following does not belong to welfare schemes for the farmers?",
-        "options": {
-            "A": "Kisan Credit Card Scheme",
-            "B": "SHG Bank Linkage Programme",
-            "C": "National Agricultural Insurance Scheme",
-            "D": "Employee Referral Scheme"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "When was On Farm Water Management Scheme launched?",
-        "options": {
-            "A": "July 2000",
-            "B": "March 2002",
-            "C": "March 2004",
-            "D": "January 2004"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following is the major source of fresh water available in India?",
-        "options": {
-            "A": "Ocean Water",
-            "B": "River Water",
-            "C": "Pond Water",
-            "D": "Ground Water"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "The rank of India in terms of water availability per person in the world is......................",
-        "options": {
-            "A": "130",
-            "B": "131",
-            "C": "132",
-            "D": "133"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Ground water is accessed by",
-        "options": {
-            "A": "Drilling/Digging Wells",
-            "B": "Drip Irrigation",
-            "C": "Bamboo Irrigation",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which Is Not a Source of Fresh Water?",
-        "options": {
-            "A": "Glaciers and ice sheets",
-            "B": "Oceans",
-            "C": "Rivers",
-            "D": "Surface run-off water"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following is/are not causes of water scarcity?",
-        "options": {
-            "A": "Growing Population",
-            "B": "Growing water intensive crops",
-            "C": "Expansion of Irrigation facilities",
-            "D": "Water harvesting techniques"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "The Ministry of Water Resources estimates total water demand rising to in 2025 is .............",
-        "options": {
-            "A": "1093 BCM",
-            "B": "3003 BCM",
-            "C": "4053 BCM",
-            "D": "5083 BCM"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which Policy stipulates water allocation priorities?",
-        "options": {
-            "A": "Jal Kranti Abhiyan",
-            "B": "National mission for Ganga clean",
-            "C": "National water policy",
-            "D": "Jal Shakti mission"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The Water (Prevention and Control of Pollution) Act was enacted in the year ...............",
-        "options": {
-            "A": "1979",
-            "B": "1974",
-            "C": "2004",
-            "D": "1994"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The rapid reduction in groundwater table in several regions in India is primarily the result of ....",
-        "options": {
-            "A": "Climate change",
-            "B": "Over exploitation of the ground water for irrigation",
-            "C": "Ground water use for domestic purposes",
-            "D": "Lack of artificial recharge of ground water"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "What is 'virtual water'?",
-        "options": {
-            "A": "Wastewater generated from domestic activities",
-            "B": "The volume of water used in the production of goods and services",
-            "C": "Water used for irrigation",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "A major portion of the rural population consists of ........................ income groups.",
-        "options": {
-            "A": "Low",
-            "B": "Medium",
-            "C": "High",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Many companies are now turning their attention to .............. markets.",
-        "options": {
-            "A": "Urban",
-            "B": "Rural",
-            "C": "Global",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "For rural marketing ...................... pricing is more suitable.",
-        "options": {
-            "A": "Penetration",
-            "B": "Skimming",
-            "C": "Going",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Marketing research is a part of ................... stage of rural marketing strategy.",
-        "options": {
-            "A": "Execution",
-            "B": "Planning",
-            "C": "Feedback",
-            "D": "Implementation"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "White revolution relates to .....................",
-        "options": {
-            "A": "Agriculture",
-            "B": "Dairy (Milk) farming",
-            "C": "Aquaculture",
-            "D": "Mineral resources"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Green Revolution relates to .................",
-        "options": {
-            "A": "Agriculture",
-            "B": "Dairy (Milk) farming",
-            "C": "Aquaculture",
-            "D": "Mineral resources"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Blue revolution relates to ...................",
-        "options": {
-            "A": "Aquaculture",
-            "B": "Agriculture",
-            "C": "Milk production",
-            "D": "Bee Keeping"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Consider the following statements: \n1) The Accelerated Irrigation Benefits Programme was launched during 1996-97 to provide loan assistance to poor farmers. \n2) The Command Area Development Programme was launched in 1974-75 for the development of water-use efficiency. \nWhich of these statements is/are correct?",
-        "options": {
-            "A": "1 only",
-            "B": "Both 1 and 2",
-            "C": "2 only",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Unnat Bharat Abhiyaan is the flagship programme of the .................",
-        "options": {
-            "A": "Ministry of Women and Child Welfare",
-            "B": "Ministry of Human Resource Development (MHRD)",
-            "C": "Ministry of Agriculture",
-            "D": "Ministry of Rural Development"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "How many higher educational institutions have been identified for the implementation of Unnat Bharat Abhiyaan?",
-        "options": {
-            "A": "720",
-            "B": "750",
-            "C": "710",
-            "D": "950"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following is the ‘National Coordinating Institute’ for the implementation of Unnat Bharat Abhiyaan?",
-        "options": {
-            "A": "IIT Chennai",
-            "B": "IIT Bombay",
-            "C": "IISc Bangalore",
-            "D": "IIT Delhi"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "The Unnat Bharat Abhiyaan is focused to promote development of rural areas based on .........",
-        "options": {
-            "A": "Gandhian vision of ‘rural republics’ using local resources and decentralized eco-friendly technologies",
-            "B": "Gandhian vision of religious tolerance and grama swaraj",
-            "C": "Technological advancement",
-            "D": "Economic development"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "One of the following is the basic unit of society.",
-        "options": {
-            "A": "Family",
-            "B": "Non Governmental Organizations",
-            "C": "Religious units",
-            "D": "Social clubs"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "‘Coresidentiality’ means",
-        "options": {
-            "A": "That the residences are located in the same locality in the rural area",
-            "B": "That they have joint ownership of property",
-            "C": "That members of a family live under the same roof",
-            "D": "That they eat together using a common kitchen"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "‘Commensality’ implies",
-        "options": {
-            "A": "That the residences are located in the same locality in the rural area",
-            "B": "That they have joint ownership of property",
-            "C": "That members of a family live under the same roof",
-            "D": "That they eat together using a common kitchen"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "‘Co-parcenary’ means",
-        "options": {
-            "A": "That the residences are located in the same locality in the rural area",
-            "B": "That they have joint ownership of property",
-            "C": "That members of a family live under the same roof",
-            "D": "That they eat together using a common kitchen"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "‘Linear Settlement’ means ....................",
-        "options": {
-            "A": "The houses are strung out, each surrounded by its own compound. However, there is little to physically demarcate where one village ends and another begins.",
-            "B": "A tight cluster of houses is surrounded by the fields of the villagers.",
-            "C": "Simply a scattering of homesteads or clusters of two or three houses. In this case also physical demarcation of villages is not clear.",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The biological and psychological function of a family include:",
-        "options": {
-            "A": "Reproduction only",
-            "B": "Both Reproduction and Division of Labour",
-            "C": "Both Reproduction and Love and Affection",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following is not a social and economic function of a family?",
-        "options": {
-            "A": "Status establishment",
-            "B": "Division of Labour",
-            "C": "Love and Affection",
-            "D": "Selection of Life mate"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following are the characteristics of caste system?",
-        "options": {
-            "A": "Restricted Food habits",
-            "B": "Reinforcement by Religious Beliefs",
-            "C": "Caste Associations",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Caste and Gender are..............",
-        "options": {
-            "A": "Not related",
-            "B": "Highly correlated",
-            "C": "Caste has no influence on gender behaviour",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Chastity of Women is strongly related to ............. ...",
-        "options": {
-            "A": "Caste status",
-            "B": "Social behaviour of women",
-            "C": "Religious practices",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Rural Value System is primarily ................... .................",
-        "options": {
-            "A": "Individualistic",
-            "B": "Communitarian and relational",
-            "C": "Self oriented",
-            "D": "All of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "One of the following is the reward of Rural Value System.",
-        "options": {
-            "A": "Economic dominance",
-            "B": "Political Status in the society",
-            "C": "Emotional Support",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following underpins the existence of human society and civilization?",
-        "options": {
-            "A": "Regular source of income",
-            "B": "Socio-economic status",
-            "C": "Muscle and Money power",
-            "D": "Nature"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which one of the following is a type of resource based on the sources of its origin?",
-        "options": {
-            "A": "Potential Resources",
-            "B": "Biotic and Abiotic resources",
-            "C": "Community Resources",
-            "D": "All of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who stated ‘Soul of India lives in her villages’?",
-        "options": {
-            "A": "Bala Gangadhara Tilak",
-            "B": "Mahatma Gandhiji",
-            "C": "Sardar Vallabha Bhai Patel",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Gandhiji emphasised that all social property should be held in trust. This related to .............",
-        "options": {
-            "A": "Trusteeship",
-            "B": "Panchayat Raj System",
-            "C": "Democratic Decentralization",
-            "D": "All of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following related with development of Rural Road infrastructure?",
-        "options": {
-            "A": "Pradhan Mantri Kisan Samman Yojana (PMKSY)",
-            "B": "Pradhan Mantri Awaas Yojana - Gramin (PMAY – G)",
-            "C": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
-            "D": "All of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The Deendayal Upadhyaya Gram Jyoti Yojana (DDUGJY) was launched in ...........",
-        "options": {
-            "A": "2021",
-            "B": "2015",
-            "C": "2020",
-            "D": "2019"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The Pradhan Mantri Ujjwala Yojana (PMUY) aims to provide ..................",
-        "options": {
-            "A": "Clean cooking fuel to rural poor",
-            "B": "Electricity connection to rural households",
-            "C": "Supply of pure and clear drinking water to rural households",
-            "D": "All of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which one of the following is instrumental in the Indian Green Revolution?",
-        "options": {
-            "A": "Former Prime Minister Smt. Indira Gandhi",
-            "B": "Shri M S Swaminathan",
-            "C": "Shri Varghese Kurian",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Paramparagat Krishi Vikas Yojana (PKVY) was launched in 2015 by the Prime Minister Sri Narendra Modi regime to promote ............... ..........",
-        "options": {
-            "A": "Cultivation of commercial crops",
-            "B": "Dairy farming",
-            "C": "Organic farming",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following is/are determinants of Rural Livelihood?",
-        "options": {
-            "A": "Gender and Caste only",
-            "B": "Gender, Caste, and Education and migration only",
-            "C": "Caste, Inherited livelihood, and Education and migration only",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following is/are not a factor determining the Rural Livelihood Diversification?",
-        "options": {
-            "A": "Age",
-            "B": "Consumption habits and preferences",
-            "C": "Access to the Credit facility and ability to borrow",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Dependency Ratio",
-        "options": {
-            "A": "2 only",
-            "B": "1 and 3 only",
-            "C": "1, 2, and 4 only",
-            "D": "1, 3, and 4 only"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "'De Jure Possession' with respect to the ownership of land means",
-        "options": {
-            "A": "Possession in the eyes of law with legal title to the land ownership",
-            "B": "Mere occupation and use of land and property",
-            "C": "Ownership of the land for being in possession for relatively longer period",
-            "D": "All of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The formal ownership rights/presumptive titling is based on legal documents such as",
-        "options": {
-            "A": "Sale Deed",
-            "B": "Tax Receipts",
-            "C": "Record of Rights",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following Act aims at 'digitization' of land records?",
-        "options": {
-            "A": "'Draft Model of Land Title Act, 2019' by NITI Aayog",
-            "B": "National Sample Survey Report, 2019",
-            "C": "Land Redistribution and Reforms Policy, 2007",
-            "D": "Forest Rights Act, 2006"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following grants equal rights to the women of Hindu community to the ancestral property?",
-        "options": {
-            "A": "Hindu Marriage and Succession Act, 2005",
-            "B": "Hindu Succession (Amendment) Act, 2005",
-            "C": "Draft Model of Land Titles Act, 2019",
-            "D": "Land Redistribution and Reforms Policy, 2007"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The percentage amount of water locked up in glaciers is ............... of the water on earth.",
-        "options": {
-            "A": "5%",
-            "B": "3%",
-            "C": "2%",
-            "D": "97%"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following is not a water management method?",
-        "options": {
-            "A": "Desiltation",
-            "B": "Artificial rains and feeding",
-            "C": "Afforestation",
-            "D": "All of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The Water (Prevention and Control of Pollution) Act was enacted in ............... to provide for the prevention and control of water pollution, and for the maintaining or restoring of wholesomeness of water in the country.",
-        "options": {
-            "A": "1974",
-            "B": "1997",
-            "C": "2003",
-            "D": "2021"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Animal husbandry refers .........................",
-        "options": {
-            "A": "To livestock raising and selective breeding",
-            "B": "To aquaculture",
-            "C": "Commercial exploitation of animals",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Apiculture and Pisciculture related to the following respectively.",
-        "options": {
-            "A": "Fish Farming and Bee Farming",
-            "B": "Bee Farming and Fish Farming",
-            "C": "Bee Farming and Dairy Farming",
-            "D": "Poultry Farming and Fish Farming"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "JAM Trinity for rural non-farm livelihood promotion means.................... .",
-        "options": {
-            "A": "Job, Achievement and Money",
-            "B": "Jan Dhan, Aadhar and Mobile",
-            "C": "Jan Dhan, Account and Money",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "'Skill India' campaign was launched in ............ ......",
-        "options": {
-            "A": "2020",
-            "B": "2015",
-            "C": "2018",
-            "D": "2022"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "NRLM means",
-        "options": {
-            "A": "National Rural Labour Mission",
-            "B": "National Rural Livelihood Mission",
-            "C": "National Rural Legislative Mission",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Rural marketing is nowadays understood through the axes of 4A’s which are",
-        "options": {
-            "A": "Availability, Affordability, Acceptability, and Awareness",
-            "B": "Availability, Affordability, Acceptability, and Ability",
-            "C": "Availability, Affordability, Ability, and Awareness",
-            "D": "Availability, Ability, Acceptability, and Awareness"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following is/are the challenges of Rural Marketing?",
-        "options": {
-            "A": "Dispersed markets",
-            "B": "Lack of communication and transport facilities",
-            "C": "Prevalence of spurious brands and seasonal demand",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following are the objectives of the Beti Bachao Beti Padhao scheme?",
-        "options": {
-            "A": "1, 3, 4",
-            "B": "2, 3, 4",
-            "C": "3 and 4",
-            "D": "All"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which festival was organized on the theme of Beti Bachao Beti Padhao?",
-        "options": {
-            "A": "Kala Mahotsava",
-            "B": "Mala Utsav",
-            "C": "Jana Utsav",
-            "D": "Kala Utsav"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following is a nodal ministry for Beti Bachao Beti Padhao scheme?",
-        "options": {
-            "A": "Ministry of Home Affairs",
-            "B": "Ministry of Health and Family Welfare",
-            "C": "Ministry of Women and Child Development",
-            "D": "Niti Ayog"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Who gave the slogan 'Beti Bachao Beti Padhao'?",
-        "options": {
-            "A": "Women and Child Development Minister Smriti Irani",
-            "B": "Prime Minister Sri Narendra Modi",
-            "C": "Home Minister Amit Shah",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "When did 'Beti Bachao Beti Padhao abhiyan' start?",
-        "options": {
-            "A": "22 January 2016",
-            "B": "22 January 2015",
-            "C": "22 January 2018",
-            "D": "22 January 2022"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which is the National Girl Child Day?",
-        "options": {
-            "A": "12 January",
-            "B": "24 January",
-            "C": "14 January",
-            "D": "10 January"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "'Beti Bachao Beti Padhao' launched in",
-        "options": {
-            "A": "Rajasthan",
-            "B": "Haryana",
-            "C": "Punjab",
-            "D": "Karnataka"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who designed the logo of 'Beti Bachao Beti Padhao' abhiyan?",
-        "options": {
-            "A": "Sri Narendra Modi",
-            "B": "Dr Manmohan Singh",
-            "C": "Shri A J Raghuvendra",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "9 Customary Village Councils (CVCs) are",
-        "options": {
-            "A": "A State sponsored organizations for local administration",
-            "B": "Privately managed administrative bodies with government financial support",
-            "C": "Traditional, non-state and unofficial local bodies participating in rural administration",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "'Khap Panchayat' is an example of ..............",
-        "options": {
-            "A": "Traditional and non-official local institution participating in village administration",
-            "B": "Government sponsored traditional private establishments of village administration",
-            "C": "A form of government approved judicial institutions functioning in Indian village administration",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "One of the following started promoting Self Help Groups (SHGs) since 1992 with primary focus on empowerment of women and marginalized sections of the society.",
-        "options": {
-            "A": "Reserve Bank of India (RBI)",
-            "B": "Regional Rural Banks",
-            "C": "National Bank for Agriculture and Rural Development (NABARD)",
-            "D": "Village Cooperative Societies"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following problems faced by the Self Help Groups (SHGs)?",
-        "options": {
-            "A": "Inadequate financial assistance",
-            "B": "Poor financial management",
-            "C": "Lack of stability and unity",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following committee connected with matters relating to Panchayat Raj system?",
-        "options": {
-            "A": "Balwant Rai Mehta Committee",
-            "B": "Ashok Mehta Committee",
-            "C": "G V K Rao Committee",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following Constitutional Amendment Act provides for the establishment of Panchayats and Grama Sabha as the foundation of Panchayat Raj System?",
-        "options": {
-            "A": "73rd Constitutional Amendment Act, 1990",
-            "B": "74th Constitutional Amendment Act, 1992",
-            "C": "73rd Constitutional Amendment Act, 1992",
-            "D": "74th Constitutional Amendment Act, 1994"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Panchayat Raj is a",
-        "options": {
-            "A": "Three-tier system",
-            "B": "Two-tier system",
-            "C": "Single layer system",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Not less than .............. of the total number of seats to be reserved for women, further not less than ..................... of the total number of offices for chairperson at all levels of the panchayat to be reserved for women.",
-        "options": {
-            "A": "One-third; One-third",
-            "B": "One-third and two-third",
-            "C": "Two-third; One-third",
-            "D": "One-third; one-fourth"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the Articles of Indian Constitution makes provisions for disqualifications from the panchayats membership?",
-        "options": {
-            "A": "Article 243B",
-            "B": "Article 243F",
-            "C": "Article 243J",
-            "D": "Article 243K"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Minimum age prescribed to contest in Panchayat elections is ............",
-        "options": {
-            "A": "25 years",
-            "B": "30 years",
-            "C": "21 years",
-            "D": "18 years"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Article ................enshrines the provisions with respect to elections of the Panchayats.",
-        "options": {
-            "A": "Article 243O",
-            "B": "Article 243F",
-            "C": "Article 243J",
-            "D": "Article 243K"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Article ................ bars the courts to interfere in the Panchayat Matters.",
-        "options": {
-            "A": "Article 243O",
-            "B": "Article 243F",
-            "C": "Article 243J",
-            "D": "Article 243K"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "PESA Act means ...............",
-        "options": {
-            "A": "Panchayat Extension and Stipulated Activities Act",
-            "B": "Panchayats Extension to Scheduled Area Act",
-            "C": "People Empowerment and Skill Augmentation Act",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who is recognized as ‘Father of Rural Development’ in India?",
-        "options": {
-            "A": "S K Dey",
-            "B": "Rabindranath Tagore",
-            "C": "Raja Ram Mohan Roy",
-            "D": "Sardar Vallabhbhai Patel"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "What is the Swachh Bharat Cess (SBC) rate shall be levied and collected in accordance with the provisions of Chapter VI of the Finance Act, 2015?",
-        "options": {
-            "A": "1.5% of the value of taxable service",
-            "B": "0.75% of the value of taxable service",
-            "C": "0.5% of the value of taxable service",
-            "D": "0.25% of the value of taxable service"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which one of the following committees is not connected with Panchayat Raj system?",
-        "options": {
-            "A": "Drafting Committee",
-            "B": "Balwant Rai Mehta Committee",
-            "C": "Ashok Mehta Committee",
-            "D": "GVK Rao Committee"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Balwant Rai Mehta Committee for Panchayat Raj was appointed in the year ...................",
-        "options": {
-            "A": "1968",
-            "B": "1947",
-            "C": "1950",
-            "D": "1957"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Who is called as the ‘Father of Panchayat Raj System’ in India?",
-        "options": {
-            "A": "L M Singhvi",
-            "B": "Ashok Mehta",
-            "C": "Balwant Rai Mehta",
-            "D": "G V K Rao"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which is the primary and permanent body of Panchayat Raj system?",
-        "options": {
-            "A": "Standing Committee",
-            "B": "Gram Sabha",
-            "C": "Khap Panchayat",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who holds a record book of details like the map of the land, the crops that are grown there, the owner’s name, etc.",
-        "options": {
-            "A": "District Collector",
-            "B": "Patwari (Land Measurer)",
-            "C": "Panchayat President",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Sarva Shiksha Abhiyan (SSA) is a comprehensive and integrated flagship programme of Government of India to attain .................",
-        "options": {
-            "A": "Quality Higher Education",
-            "B": "Proficiency in Technical Education",
-            "C": "Skill and Expertise in Medical Education",
-            "D": "Universal Elementary Education (UEE)"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Right to Education Act (RTE) came into force on ... ........................",
-        "options": {
-            "A": "1 April 2010",
-            "B": "22 April 2010",
-            "C": "11 April 2010",
-            "D": "1 April 2018"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "'Padhe Bharat Badhe Bharat' is a nation-wide sub-programme of ................",
-        "options": {
-            "A": "Holistic Education",
-            "B": "New Education Policy (NEP)",
-            "C": "National Education Policy (NEP)"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The NIPUN Bharat Mission was launched as part of ........................",
-        "options": {
-            "A": "Sarva Shiksha Abhiyan in 2021",
-            "B": "Samagra Shiksha Abhiyan in 2021",
-            "C": "National Education Policy (NEP) in 2021",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "A government of India initiative launched by the then Prime Minister Dr. Manmohan Singh to create a literate society through a variety of teaching-learning programmes for the non-literate and neo-literate of 15 years and above is called as ....................",
-        "options": {
-            "A": "Samagra Shiksha Abhiyan",
-            "B": "Sarva Shiksha Abhiyan",
-            "C": "Madhyamika Shiksha Abhiyan",
-            "D": "Saakshar Bharat"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Who was made as the brand ambassador of ‘Beti Bachao Beti Padhao’ initiative?",
-        "options": {
-            "A": "Olympian Sakshi Mallik",
-            "B": "Olympian Nirav Chopra",
-            "C": "Olympian Vijendra Kuman",
-            "D": "Olympian Abhinav Bindra"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Who started ‘Selfie With Daughter’ initiative?",
-        "options": {
-            "A": "Narendra Modi",
-            "B": "Dr Manmohan Singh",
-            "C": "Sunil Jaglan",
-            "D": "Smt. Smriti Irani"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Indian healthcare has evolved over the past three decades and is currently at a very critical juncture to achieve the 3As of healthcare; where 3As mean:",
-        "options": {
-            "A": "Affordability, Accountability, Accuracy",
-            "B": "Accessibility, Availability, Accountability",
-            "C": "Affordability, Accessibility and Availability",
-            "D": "Accessibility, Authenticity, Accountability"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "‘Ayushman Bharat’ initiative aiming at achieving Universal Health Coverage was launched in the year .......................",
-        "options": {
-            "A": "2021",
-            "B": "2015",
-            "C": "2018",
-            "D": "2022"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "National Health Protection Mission will have a defined benefit cover of ............... per family per year",
-        "options": {
-            "A": "Rs. 3 lakhs",
-            "B": "Rs. 10 lakhs",
-            "C": "Rs. 5 lakhs",
-            "D": "Rs. 1.5 lakhs"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "India’s largest National Health Protection Scheme has been implemented under the name .............",
-        "options": {
-            "A": "Samman Bharat",
-            "B": "Ayushman Bharat",
-            "C": "Adarsh Bharat",
-            "D": "Nirmaan Bharat"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who will head the Ayushman Bharat National Health Protection Mission Council (AB-NHPMC) formed at national level to implement the scheme?",
-        "options": {
-            "A": "Prime Minister",
-            "B": "Minister of Health and Family Welfare",
-            "C": "Minister of Ayush",
-            "D": "Chairman of NITI Ayog"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The states and UTs are required to set up SHA for the implementation of the scheme. What does SHA stands for?",
-        "options": {
-            "A": "State Health Agency",
-            "B": "Society Health Agency",
-            "C": "Strategic Health Agency",
-            "D": "Social Health Agency"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The Ayushman Bharat aims to target about ...... .............. beneficiaries under the scheme?",
-        "options": {
-            "A": "100 crore",
-            "B": "10.74 crore",
-            "C": "10.47 crore",
-            "D": "10.65 crore"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The government has partnered with which entity to make the process cashless?",
-        "options": {
-            "A": "Paytm",
-            "B": "Reliance",
-            "C": "NITI Ayog",
-            "D": "None of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Under the Ayushman Bharat programme, government has announced two major initiatives namely National Health Protection Scheme and Health and Wellness Centre as the two flagship programmes with the aim to build New India by ..... .....................",
-        "options": {
-            "A": "2022",
-            "B": "2021",
-            "C": "2030",
-            "D": "2047"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "With reference to ‘Ayushman Bharat’ initiative, which of the following statement is correct?\n1. Under the Ayushman Bharat programme, government has announced two major initiatives namely National Health Protection Scheme and Health and Wellness Centre as the two flagship programme with the aim to build New India\n2. The expenses incurred in this scheme are shared between the Centre and the States in 60:40 ratio.",
-        "options": {
-            "A": "1 only",
-            "B": "2 only",
-            "C": "Both 1 and 2",
-            "D": "Neither 1 nor 2"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following is linked with ‘Ayushman Bharat’ yojana?",
-        "options": {
-            "A": "ABHA",
-            "B": "ASHA",
-            "C": "USHA",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "ABHA stands for ........... in Ayushman Bharat.",
-        "options": {
-            "A": "All Body Health Assessment",
-            "B": "Ayushman Bharat Health Account",
-            "C": "Ayushman Bharat Health Assessment",
-            "D": "Agreement of Body and Health Assessment"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who is eligible for ABHA ID card?",
-        "options": {
-            "A": "All Indian Citizens",
-            "B": "Citizens with annual income below Rs. 5 lakhs",
-            "C": "Citizens with BPL Card facility",
-            "D": "SC, ST and EWS of the society"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "NDHM means .............",
-        "options": {
-            "A": "National Direct Health Medication",
-            "B": "National Digital Health Monitoring",
-            "C": "National Doctors and Health Mentors",
-            "D": "National Digital Health Mission"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "With reference to Ayushman Bharat Pradhan Mantri Jana Arogya Yojana (AB-PMJAY) consider the following statements:\n1. It has been launched to achieve Universal Health Coverage\n2. It is the world’s largest health insurance scheme fully financed by the government and the cost of implementation is shared between the Centre and the State at 60:40 ratio\n3. It is applicable to the people aged 60 and above only",
-        "options": {
-            "A": "1 only",
-            "B": "1 and 2 only",
-            "C": "1 and 3 only",
-            "D": "2 and 3 only"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "When the ‘Swachh Bharat Abhiyan’ initiated?",
-        "options": {
-            "A": "2016",
-            "B": "2015",
-            "C": "2018",
-            "D": "2014"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "‘Swachh Bharat Mission’ (Clean India Campaign) aims at:\n1. Eliminate open defecation\n2. Solid Waste Management",
-        "options": {
-            "A": "1 only",
-            "B": "2 only",
-            "C": "Neither 1 nor 2",
-            "D": "Both 1 and 2"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "‘Swachh Bharat Abhiyan’ is a restructured version of ...............",
-        "options": {
-            "A": "‘Nirmal Bharat Abhiyan’, 2009",
-            "B": "Clean India Campaign, 2009",
-            "C": "Clean City Campaign, 2009",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Mahatma Gandhi’s 150 birth anniversary celebrated on ...................",
-        "options": {
-            "A": "2 October 2019",
-            "B": "2 October 2020",
-            "C": "2 October 2021",
-            "D": "2 October 2018"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "The ‘Swachh Bharat Abhiyan’ tagline ‘Ek Kadam Swachhata Ki Aur’ is given by ..........",
-        "options": {
-            "A": "Shri Anant Khasbardar of Kolhapur, Maharashtra",
-            "B": "Sri Narendra Modi",
-            "C": "M S Swaminathan",
-            "D": "Ms. Bhagyasri Sheth of Rajkot, Gujarat"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Who among the following has designed the logo of ‘Swachh Bharat Abhiyan’?",
-        "options": {
-            "A": "Shri Anant Khasbardar of Kolhapur, Maharashtra",
-            "B": "Sri Narendra Modi",
-            "C": "M S Swaminathan",
-            "D": "Ms. Bhagyasri Sheth of Rajkot, Gujarat"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "What is the budget amount fixed for Swachh Bharat Mission – Urban 2.0 will be effective from 2021 to 2026.",
-        "options": {
-            "A": "100 crores",
-            "B": "10.4 thousand crores",
-            "C": "75.1 thousand crores",
-            "D": "1.41 lakh crores"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which one of the following as a civil servant who led the ‘Swachh Bharat Mission’?",
-        "options": {
-            "A": "Hari Chandana Dasari",
-            "B": "Parameswaran Iyer",
-            "C": "Renu Raj",
-            "D": "Kunwar Bai Yadav"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "At a rally in Champaran the Prime Minister called the campaign ‘satyagraha se swachhagrah’ in reference Gandhi Champaran Satyagrah launched on ............",
-        "options": {
-            "A": "13 April 1919",
-            "B": "10 April 1916",
-            "C": "12 March 1931",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "In which place ‘Clean India Mission’ (Swachh Bharat Abhiyan) was officially launched?",
-        "options": {
-            "A": "Patna, Bihar",
-            "B": "Rajghat, New Delhi",
-            "C": "Lucknow, UP",
-            "D": "Kurukshetra, Haryana"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "How many sub-missions are there in ‘Swachh Bharat Abhiyan’?",
-        "options": {
-            "A": "Two",
-            "B": "Four",
-            "C": "Six",
-            "D": "Three"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "When was the Nirmal Bharat Abhiyan launched?",
-        "options": {
-            "A": "2013",
-            "B": "2009",
-            "C": "2020",
-            "D": "2012"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following is/are objectives of ‘Swachh Bharat Abhiyan’?",
-        "options": {
-            "A": "To eliminate open defecation",
-            "B": "Eradication of manual scavenging",
-            "C": "Effective solid waste management",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which is the twitter hashtag used for ‘Swachh Bharat Mission’?",
-        "options": {
-            "A": "#MyIncredible India",
-            "B": "#MyCleanIndia",
-            "C": "#MyNeatIndia",
-            "D": "#MYSmartIndia"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "On which day India observes the World Toilet Day?",
-        "options": {
-            "A": "14 August",
-            "B": "19 November",
-            "C": "13 February",
-            "D": "15 September"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which is the first city in our country free of manual scavenging?",
-        "options": {
-            "A": "Alwar",
-            "B": "Bharuch",
-            "C": "Trichy",
-            "D": "Jaipur"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which is the cleanest village of India?",
-        "options": {
-            "A": "Mawlynnong",
-            "B": "Punsari",
-            "C": "Dharani",
-            "D": "Ballia"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "What is the tagline of Swachh Bharat Abhiyan?",
-        "options": {
-            "A": "One India, Clean India",
-            "B": "Swachh Bharat Mera Bharat",
-            "C": "Ek Kadam Swachhata Ki Ore",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following committee recommended for Panchayat Raj system in India?",
-        "options": {
-            "A": "Drafting Committee",
-            "B": "Balwant Rai Mehta Committee",
-            "C": "Ashok Mehta Committee",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following system is established on the basis of the direct election?",
-        "options": {
-            "A": "Panchayat Raj",
-            "B": "Block Committee",
-            "C": "Zilla Parishad",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following Article of Indian Constitution is related to Panchayati Raj?",
-        "options": {
-            "A": "Article 324",
-            "B": "Article 326",
-            "C": "Article 194",
-            "D": "Article 243"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "What was the main purpose behind bringing the Panchayati Raj system to India?",
-        "options": {
-            "A": "Decentralization of the political power to the common public in villages",
-            "B": "Prevent the criminalization of politics",
-            "C": "Development of villages",
-            "D": "To reduce election expenses"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which schedule was added to the constitution by the 73rd Constitutional Amendment?",
-        "options": {
-            "A": "8 Schedule",
-            "B": "11 Schedule",
-            "C": "12 Schedule",
-            "D": "10 Schedule"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which statement is not correct regarding 'Gram Sabha'?",
-        "options": {
-            "A": "It is a body consisting of persons registered in the electoral rolls of a village comprised within the area of the Panchayat level",
-            "B": "It is a village assembly consisting of all the registered voters in the area of the Panchayat",
-            "C": "Its power is determined by the central government",
-            "D": "Its powers and functions at the village level are like state legislature at the state level"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which statement is true about Panchayati Raj?",
-        "options": {
-            "A": "1 only",
-            "B": "2 and 4 only",
-            "C": "1 and 3 only",
-            "D": "All of these are true"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "How many posts are reserved for women at all levels in the Panchayati Raj system?",
-        "options": {
-            "A": "One-third",
-            "B": "One-fourth",
-            "C": "Two-third",
-            "D": "There is no reservation for women in Panchayat Raj system."
-        },
-        "answer": "A"
-    },
-    {
-        "question": "'Swachha Bharat Swachha Vidyalaya' (SBSV) campaign with the objective of cleanliness in schools run by the Ministry of ............ .",
-        "options": {
-            "A": "Environment and Forest",
-            "B": "Human Resource Development",
-            "C": "Agriculture",
-            "D": "Urban Development"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "What is the primary goal and focus of Swachha Bharat Mission?",
-        "options": {
-            "A": "Clean India",
-            "B": "Digital India",
-            "C": "Smart India",
-            "D": "Skill India"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "When did the 'Skill India' or 'National Skills Development Mission of India' was launched?",
-        "options": {
-            "A": "15 July 2018",
-            "B": "15 August 2016",
-            "C": "15 July 2015",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following country entered into a partnership in Skill India programme?",
-        "options": {
-            "A": "Bhutan",
-            "B": "Russia",
-            "C": "USA",
-            "D": "UK"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "SANKALP means .......................",
-        "options": {
-            "A": "Skill Awareness and Knowledge Awareness for Loan Processing Programme",
-            "B": "Skill Acquisition and Knowledge Awareness for Livelihood Promotion Programme",
-            "C": "Social Acquisition and Knowledge Acquisition for Livelihood Promotion Programme",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Skill India programmes are managed by .......... ...........",
-        "options": {
-            "A": "National Skills Development Corporation of India (NSDC)",
-            "B": "Urban Development Corporation of India",
-            "C": "Labour Unions",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Skill India Mission is associated with the Ministry of ..........",
-        "options": {
-            "A": "Labour and Family Welfare",
-            "B": "Human Resource Development",
-            "C": "Skill Development and Entrepreneurship",
-            "D": "NITI Aayog"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following is an initiative of Skill India Mission?",
-        "options": {
-            "A": "Food for Life Programme",
-            "B": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
-            "C": "Right to Education",
-            "D": "Grammen Sadak Yojana"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Consider the following statements about NRLM: 1. It promotes the Self-employment and Organization of the rural poor 2. It is supported by the World Bank with a credit of $1 Billion",
-        "options": {
-            "A": "1 only",
-            "B": "2 only",
-            "C": "Both 1 and 2",
-            "D": "None of these"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "NRLM – Ajeevika is launched by the Ministry of ............",
-        "options": {
-            "A": "Labour and Family Welfare",
-            "B": "Rural Development",
-            "C": "Urban Development",
-            "D": "Human Resource Development"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "This is a platform for sharing of experiences of SHGs and extends mutual support to improve the overall performance.",
-        "options": {
-            "A": "Cluster Level Forum",
-            "B": "Community Level Forum",
-            "C": "Common Leave Facility",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "NRLM follows ...................",
-        "options": {
-            "A": "Supply Based Production Strategy",
-            "B": "Demand Driven Strategy",
-            "C": "Income Driven Strategy",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "The World Bank (IBRD) in its World Development Report (2014) termed it as a 'stellar example of rural development'. Which one of the following initiative of the Central Government is termed as a 'stellar example of rural development' by the World Bank in its World Development Report, 2014?",
-        "options": {
-            "A": "NRLM",
-            "B": "Rural Livelihood Mission",
-            "C": "NREGA, 2005",
-            "D": "None of these"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "NREGA aims to enhance livelihood security in rural areas by providing at least ............ days of wage employment in a financial year to at least one member of every household whose adult members volunteer to do unskilled manual work.",
-        "options": {
-            "A": "180",
-            "B": "200",
-            "C": "150",
-            "D": "100"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Under MNREGA scheme, who is mainly responsible as key functionary in implementing the schemes/works at village level?",
-        "options": {
-            "A": "Village Secretary",
-            "B": "Gram Rozgar Sahayak",
-            "C": "Gramin Vikas Adhikari",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which is the first state to employ the differently-abled in MNREGA?",
-        "options": {
-            "A": "Kerala",
-            "B": "Tamil Nadu",
-            "C": "Gujarat",
-            "D": "Karnataka"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "For how many years is the registration of job card under MNREGA valid?",
-        "options": {
-            "A": "Five",
-            "B": "Four",
-            "C": "Ten",
-            "D": "For lifetime"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Who selects the Social Audit Committee under MNREGA?",
-        "options": {
-            "A": "Members of Zilla Panchayat",
-            "B": "District Collector",
-            "C": "Grama Sabha",
-            "D": "Minister for Rural Development"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Union Government increased workdays from 100 days to 150 days per year under MGNREGA in which state?",
-        "options": {
-            "A": "Karnataka",
-            "B": "Tamil Nadu",
-            "C": "Kerala",
-            "D": "Bihar"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "In the cash benefits transferred last year under the Direct Benefits Transfer Scheme, the largest head under which DBT transfers were made was ...............",
-        "options": {
-            "A": "MNREGA",
-            "B": "LPG Subsidy",
-            "C": "Fertilizer Subsidy",
-            "D": "Compensation to farmers for the loss due to flood, drought, and other calamities"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following is/are true regarding Pradhan Mantri Awaas Yojana — Gramin?",
-        "options": {
-            "A": "1 only",
-            "B": "2 only",
-            "C": "Both 1 and 2",
-            "D": "Neither 1 nor 2"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The NDA Government has decided to increase the number of workdays under MGNREGA from 100 days to ....................... days in drought-affected areas.",
-        "options": {
-            "A": "120",
-            "B": "200",
-            "C": "150",
-            "D": "280"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "National Mission for a Green India is merged with ..........",
-        "options": {
-            "A": "National River Conservation Scheme",
-            "B": "Swachh Bharat Abhiyan",
-            "C": "National Afforestation Programme",
-            "D": "MNREGA"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Consider the following statements: \n1. MGNREGS fulfills the constitutional rights in India \n2. MGNREGA is to be implemented mainly by gram panchayats \n3. The places where the recent unseasonal rain and hailstorms have affected crops, the government will increase the number of work days under the Mahatma Gandhi National Rural Employment Guarantee Scheme from 100 to 200 days per year. \nWhich of these above statements are correct?",
-        "options": {
-            "A": "1 only",
-            "B": "1 and 3 only",
-            "C": "2 and 3 only",
-            "D": "1 and 2 only"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which of the following can help in the development of human resource?",
-        "options": {
-            "A": "Skill development",
-            "B": "Improving literacy and access to information",
-            "C": "Training",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Rural development aims at \n1. Improving rural health facilities \n2. Reducing poverty \n3. Development of rural infrastructure",
-        "options": {
-            "A": "1 only",
-            "B": "2 only",
-            "C": "1 and 3 only",
-            "D": "1, 2, and 3"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Regulation that arises to ensure that firms take responsibility for the social cost of their products or production process stem from the government legislation of business in order to .....................",
-        "options": {
-            "A": "Protect companies from each other",
-            "B": "Protect companies from unfair business practices",
-            "C": "Protect the interest of society",
-            "D": "Protect the business from unfair consumers' demand"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "The defenders of the sustainability approach of Corporate Social Responsibility (CSR) point out that:",
-        "options": {
-            "A": "2 only",
-            "B": "4 only",
-            "C": "1, 3, and 4 only",
-            "D": "1 only"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following are the parts of the Corporate Social Responsibility (CSR) to consumers?",
-        "options": {
-            "A": "1 only",
-            "B": "2 only",
-            "C": "2 and 4 only",
-            "D": "1, 3, and 4 only"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "With reference to Corporate Social Responsibility (CSR) which of the following statements is/are true?",
-        "options": {
-            "A": "1 and 3 only",
-            "B": "1 and 2 only",
-            "C": "2 and 3 only",
-            "D": "1, 2 and 3"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "As per Carrol Model, the four levels of Corporate Social Responsibility (CSR) are ...................",
-        "options": {
-            "A": "Physical, economic, legal, ethical",
-            "B": "Philanthropic, economic, legal, ethical",
-            "C": "Physical, economic, social, legal",
-            "D": "Philanthropic, economic, social, legal"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "With reference to the Corporate Social Responsibility (CSR) which of the following statements is/are true?",
-        "options": {
-            "A": "Both 1 and 2",
-            "B": "1 only",
-            "C": "Neither 1 nor 2",
-            "D": "2 only"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Select the correct sequence of the following CSR eligibility criteria and spending as per the provisions of the Indian Companies Act, 2013.",
-        "options": {
-            "A": "2, 4, 1, 3, and 5",
-            "B": "1, 4, 3, 2, and 5",
-            "C": "1, 4, 2, 3, and 5",
-            "D": "1, 2, 4, 3, and 5"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Corporate Social Responsibility is the continuing commitment by the business to behave ethically and contribute to.................",
-        "options": {
-            "A": "1, 2, 3, and 5 only",
-            "B": "1 and 4 only",
-            "C": "2, 3, and 5 only",
-            "D": "1, 3, and 5 only"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Corporate Social Responsibility (CSR) means.................",
-        "options": {
-            "A": "Dealing with complications of social life",
-            "B": "Corporate life having social responsibility",
-            "C": "Compliance of ecological and social responsibility of the companies and organizations",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "............................ depends on a product’s perceived performance in delivering value relative to a buyer’s expectations.",
-        "options": {
-            "A": "Customer’s satisfaction",
-            "B": "Product quality",
-            "C": "Customer loyalty",
-            "D": "Product Image branding"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "A Corporate company makes donations to charitable institutions; builds recreational facilities for employees and their families, supports educational institutions, orphanages, promotes performing arts, and other activities. In CSR, this dimension is known as ......................",
-        "options": {
-            "A": "Legal responsibility",
-            "B": "Economic responsibility",
-            "C": "Philanthropic responsibility",
-            "D": "Ethical responsibility"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "What is meant by the phrase CSR?",
-        "options": {
-            "A": "Company Social Responsibility",
-            "B": "Corporate Society Responsibility",
-            "C": "Company Society Responsibility",
-            "D": "Corporate Social Responsibility"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "What is the enlightened self-interest model of CSR?",
-        "options": {
-            "A": "That it is in an organization's own best interest to put itself first rather than its ethics",
-            "B": "That it is in an organization's best interest to consider what a shareholder would want",
-            "C": "That it is in an organization's own best interest to follow the legislation and abide by the law",
-            "D": "That it is in an organization's own best interest to act in an ethical way"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "What is Triple Bottom Line?",
-        "options": {
-            "A": "A management strategy which states all the attention should be on profits",
-            "B": "An accounting tool that looks at cost, profit and loss",
-            "C": "An accounting tool that looks at the impact on people, planet, and profits",
-            "D": "A management strategy which focuses on corporate social responsibility"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Which of the following would most effectively act as the primary objective of a business enterprise/organization?",
-        "options": {
-            "A": "To make a profit",
-            "B": "To procure resources",
-            "C": "To communicate with shareholders/stakeholders",
-            "D": "To mediate between the organization and the environment"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following does the term Corporate Social Responsibility relate to?",
-        "options": {
-            "A": "Ethical conduct",
-            "B": "Social responsibility",
-            "C": "Business ethics",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Who are Organizational Stakeholders?",
-        "options": {
-            "A": "Government",
-            "B": "Employees",
-            "C": "Customers",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Which of the following related to the concept of business ethics?",
-        "options": {
-            "A": "Right to Information Act",
-            "B": "Food Act",
-            "C": "Building regulations",
-            "D": "All of these"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "A high commitment to environmental issues include all the following except ...................",
-        "options": {
-            "A": "Risk analysis",
-            "B": "Stakeholder analysis",
-            "C": "Strategic sustainability auditing",
-            "D": "Green Washing"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "The acronym CSR stands for...............",
-        "options": {
-            "A": "Corporate Social Responsibility",
-            "B": "Corporate Search and Reuse",
-            "C": "Corporate Sensitive Reliability",
-            "D": "Corporate Social Reality"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Which of the following is not an underlying principles of Corporate Governance Combined Code of Practice?",
-        "options": {
-            "A": "Openness",
-            "B": "Acceptability",
-            "C": "Integrity",
-            "D": "Accountability"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "What is the minimum amount of average net profit that companies should invest under CSR activities?",
-        "options": {
-            "A": "0.002",
-            "B": "0.02",
-            "C": "0.005",
-            "D": "0.05"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Which clause of the Companies Act, 2013 makes Corporate Social Responsibility (CSR) mandatory?",
-        "options": {
-            "A": "153",
-            "B": "125",
-            "C": "135",
-            "D": "150"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "What should be the net worth of the companies to be under the preview of Companies Act, 2013?",
-        "options": {
-            "A": "Rs. 500 crore",
-            "B": "Rs. 1000 Crore",
-            "C": "Rs. 5 Crore",
-            "D": "Rs. 100 Crore"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "What concern do Corporate Social Responsibility (CSR) address?",
-        "options": {
-            "A": "Ethical and regulatory guidelines",
-            "B": "Moral and Ethical",
-            "C": "Monetary and Profit",
-            "D": "Social and Environmental"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Who is popularly recognised as the ‘Father of Corporate Social Responsibility’ in India being instrumental in framing and issuing the CSR guidelines to Public Sector Understanding (PSE)?",
-        "options": {
-            "A": "Former Prime Minister Dr Manmohan Singh",
-            "B": "V K Kurian",
-            "C": "Bhaskar Chatterjee",
-            "D": "M S Swaminathan"
-        },
-        "answer": "C"
-    }
+  {
+    "question": "………………… are defined as psychological abilities for adaptive and positive behaviors.",
+    "options": {
+      "A": "Life skills",
+      "B": "Recreational skills",
+      "C": "Soft skills",
+      "D": "Vocational skills"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The values of life skills include",
+    "options": {
+      "A": "All of these",
+      "B": "Concerned about the welfare of others",
+      "C": "Capable of having an influence on the world",
+      "D": "Aware of their rights and responsibilities"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "………………… defined as the feeling of pity and sorrow for someone else’s misfortune:",
+    "options": {
+      "A": "Sympathy",
+      "B": "Empathy",
+      "C": "Values",
+      "D": "Courtesy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which term refers to relationships or communication that occurs between two or more people?",
+    "options": {
+      "A": "Interpersonal",
+      "B": "Intra -personal",
+      "C": "Intimate",
+      "D": "Cordial"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "………………… refers to the ability to recognize, understand, and manage one's own emotions as well as the emotions of others",
+    "options": {
+      "A": "EQ",
+      "B": "SQ",
+      "C": "IQ",
+      "D": "PQ"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………… are activities structured to feel like real experiences?",
+    "options": {
+      "A": "Simulations",
+      "B": "Communication",
+      "C": "Drama",
+      "D": "Skills"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "………… method is used to enhance life skills.",
+    "options": {
+      "A": "audio-visual activities",
+      "B": "Stress",
+      "C": "self-unawareness",
+      "D": "MBIT"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Critical thinking requires basic qualities such as:",
+    "options": {
+      "A": "All of these",
+      "B": "Flexibility",
+      "C": "Persistence",
+      "D": "Open-mindedness"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The life skills approach encompasses and balances all the three components, namely Knowledge, Skills and _______.",
+    "options": {
+      "A": "Attitudes",
+      "B": "Empathy",
+      "C": "Sympathy",
+      "D": "Apathy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…….. is a novel way of seeing or doing things that generates new ideas, has a shifting perspective, conceives something new, and builds on other ideas.",
+    "options": {
+      "A": "Critical thinking",
+      "B": "Creative thinking",
+      "C": "Self-awareness",
+      "D": "sympathy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…….. is the translation of the German term Einfühlung, meaning, ‘to feel as one with’",
+    "options": {
+      "A": "Empathy",
+      "B": "Sympathetic",
+      "C": "Sympathy",
+      "D": "Empathetic"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "According to Daniel Goleman, “……………… is a master aptitude, a capacity that profoundly affects all other abilities, either facilitating or interfering.”",
+    "options": {
+      "A": "Emotional intelligence",
+      "B": "Creative thinking",
+      "C": "Interpersonal Skills",
+      "D": "Critical thinking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…….. skills are important for relating positively with people we interact with.",
+    "options": {
+      "A": "Interpersonal Skills",
+      "B": "Creative thinking",
+      "C": "Critical thinking",
+      "D": "Empathy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Determining alternative solutions to a problem is related to ……………skill.",
+    "options": {
+      "A": "problem solving skills",
+      "B": "refusal skills",
+      "C": "Critical thinking",
+      "D": "effective communication skill"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Life skills help people establish productive …………………. relationships.",
+    "options": {
+      "A": "Interpersonal",
+      "B": "Social",
+      "C": "Cultural",
+      "D": "Personal"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "An individual must be able to evaluate the future consequences of their present actions. This is an example of………. skill.",
+    "options": {
+      "A": "critical thinking skill",
+      "B": "inter-personal skill",
+      "C": "Communication skill",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. skill includes the verbal and non-verbal aspects.",
+    "options": {
+      "A": "Communication",
+      "B": "Advocacy",
+      "C": "Decision making",
+      "D": "Problem solving"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What term best describes a person who recognizes and believes in their own worth and abilities?",
+    "options": {
+      "A": "Self-confidence",
+      "B": "Self-worth",
+      "C": "Self-evaluation",
+      "D": "Self-knowledge"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Life skill education provides a foundation for adults’ ……….behavior.",
+    "options": {
+      "A": "Social",
+      "B": "Psychological",
+      "C": "Economic",
+      "D": "Cultural"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Self-evaluation skills help to set…………",
+    "options": {
+      "A": "Goals",
+      "B": "Carrier",
+      "C": "Education",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Development of life skills enables the adolescent to be …………….in society.",
+    "options": {
+      "A": "Accepted",
+      "B": "Passive",
+      "C": "Active",
+      "D": "Rejected"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Ability to express feelings and provide feedback is related to ……………skills.",
+    "options": {
+      "A": "Interpersonal skill",
+      "B": "Management skill",
+      "C": "Motivational skill",
+      "D": "Decision-making skill"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Active listening is an example of …...ability.",
+    "options": {
+      "A": "Interpersonal",
+      "B": "Cultural",
+      "C": "Personal",
+      "D": "Social"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Positive thinking will help to manage ……………..",
+    "options": {
+      "A": "Stress",
+      "B": "Super Ego",
+      "C": "Happiness",
+      "D": "We-feeling"
+    },
+    "answer": "A"
+  },
+  {
+    "question": ".......... focuses not only on knowledge and attitude change but, more importantly, on behavior change.",
+    "options": {
+      "A": "life skill education",
+      "B": "formal education",
+      "C": "Informal education",
+      "D": "adult education"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following refers to abilities that support adaptive and positive behavior, helping individuals effectively manage life’s demands and challenges?",
+    "options": {
+      "A": "Thinking",
+      "B": "Attitude",
+      "C": "Creativity",
+      "D": "Life skills"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Critical thinking means..........",
+    "options": {
+      "A": "Higher level thinking that aims to solve a problem.",
+      "B": "Logically analyzing arguments in a critical way.",
+      "C": "Finding faults and weaknesses in other people’s arguments.",
+      "D": "Disciplined thinking and judgment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "According to Hoffman, everyone is born with the capability of feeling ……...",
+    "options": {
+      "A": "pain",
+      "B": "sorrow",
+      "C": "Empathy",
+      "D": "entertainment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Ability to perceive the visual",
+    "options": {
+      "A": "Pictures",
+      "B": "Visual intelligence",
+      "C": "See",
+      "D": "Hear"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……... the ability to use words and language",
+    "options": {
+      "A": "Elegancy",
+      "B": "Verbal intelligence",
+      "C": "Adequacy",
+      "D": "Critical thinking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Thinking about other things while listening to others is called ………………….",
+    "options": {
+      "A": "Mind drift",
+      "B": "Inactive listening",
+      "C": "Listening mistake",
+      "D": "Passive listening"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. helps to capture the listener’s attention.",
+    "options": {
+      "A": "Gesture",
+      "B": "Communication",
+      "C": "Message",
+      "D": "Hints"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Listening skills are a prerequisite for …………….",
+    "options": {
+      "A": "Group discussion",
+      "B": "Intra Personal Communication",
+      "C": "Speaking",
+      "D": "Public discussion"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………….. is a conversation between two people.",
+    "options": {
+      "A": "Dialogue",
+      "B": "Debate",
+      "C": "Discussion",
+      "D": "Monologue"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The term ‘self-esteem’ comes from a …………….. word.",
+    "options": {
+      "A": "Greek",
+      "B": "French",
+      "C": "Latin",
+      "D": "Portuguese"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………….. means pride in one’s self-respect.",
+    "options": {
+      "A": "Self-esteem",
+      "B": "Self-appraisal",
+      "C": "Self-awareness",
+      "D": "Self-confidence"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………….. is a clear perception of your personality.",
+    "options": {
+      "A": "Awareness",
+      "B": "Assessment",
+      "C": "Identity",
+      "D": "Control"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………….. an ability to observe one’s behavior, action, thoughts, feelings and emotions.",
+    "options": {
+      "A": "Self-awareness",
+      "B": "Self-identification",
+      "C": "Self-evaluation",
+      "D": "Self-assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "It is otherwise called self-discipline. (…………….. also called self-discipline.)",
+    "options": {
+      "A": "Self-control",
+      "B": "Self-identity",
+      "C": "Self-evaluation",
+      "D": "Self-assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………….. is internal processes that activate, guide, and maintain behavior.",
+    "options": {
+      "A": "Motivation",
+      "B": "Emotion",
+      "C": "Hard work",
+      "D": "Goal attainment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The word SQ (Social Quotient) is originally coined by ……………..",
+    "options": {
+      "A": "Edward Thorndike",
+      "B": "Ketron Aura",
+      "C": "Robert Sternberg",
+      "D": "Steven Vernon"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Time management is ……………..",
+    "options": {
+      "A": "Planning how to divide time between activities",
+      "B": "Arranging appointments on a calendar",
+      "C": "Completing tasks as quickly as possible",
+      "D": "Setting strict schedules for each day"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Time management is important because ……………..",
+    "options": {
+      "A": "It reduces stress and improves productivity",
+      "B": "It helps you avoid work entirely",
+      "C": "It allows you to work long hours without breaks",
+      "D": "It ensures you complete all tasks without any errors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "First step in effective time management is ……………..",
+    "options": {
+      "A": "Identifying your goals",
+      "B": "Making a to-do list",
+      "C": "Prioritizing tasks",
+      "D": "Setting deadlines for each task"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………….. is an example of a time-wasting activity.",
+    "options": {
+      "A": "Attending unnecessary meetings",
+      "B": "Taking breaks between tasks",
+      "C": "Checking emails at designated times",
+      "D": "Prioritizing important task"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can you prioritize tasks effectively?",
+    "options": {
+      "A": "By working on tasks based on their complexity",
+      "B": "By working on tasks in the order they were received",
+      "C": "By working on tasks based on their urgency and importance",
+      "D": "By working on tasks that are easier to complete first"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can saying “no” help with time management?",
+    "options": {
+      "A": "It allows you to focus on your own tasks and priorities",
+      "B": "It helps you avoid all commitments",
+      "C": "It prevents you from ever taking on new responsibilities",
+      "D": "It increases stress and workload"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of setting deadlines for tasks?",
+    "options": {
+      "A": "To create a sense of urgency and accountability",
+      "B": "To ensure tasks are completed as quickly as possible",
+      "C": "To allow for flexibility in task completion",
+      "D": "To measure your overall productivity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which is an example of multitasking?",
+    "options": {
+      "A": "Simultaneously working on multiple tasks",
+      "B": "Focusing on one task at a time",
+      "C": "Working on two tasks sequentially",
+      "D": "Juggling multiple tasks with no order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can you avoid procrastination?",
+    "options": {
+      "A": "By breaking tasks into smaller steps",
+      "B": "By setting unrealistic deadlines",
+      "C": "By taking frequent breaks",
+      "D": "By avoiding making to-do lists"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of time blocking?",
+    "options": {
+      "A": "To allocate specific time slots for different tasks",
+      "B": "To eliminate all distractions during work hours",
+      "C": "To work on tasks without taking breaks",
+      "D": "To limit the number of tasks to work on each day"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the goal of time management?",
+    "options": {
+      "A": "To make the most of available time",
+      "B": "To make time go by faster",
+      "C": "To complete tasks as quickly as possible",
+      "D": "To eliminate all breaks and free time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can delegating tasks help with time management?",
+    "options": {
+      "A": "It frees up time to focus on higher-priority tasks",
+      "B": "It allows you to procrastinate on tasks",
+      "C": "It avoids the need to prioritize tasks",
+      "D": "It reduces the overall workload"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of time management tools and software?",
+    "options": {
+      "A": "To help track and manage tasks efficiently",
+      "B": "To eliminate the need for setting deadlines",
+      "C": "To reduce productivity and create distractions",
+      "D": "To replace the need for prioritizing tasks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which is an example of an external time-wasting factor?",
+    "options": {
+      "A": "Frequent interruptions",
+      "B": "Procrastination",
+      "C": "Setting unrealistic goals",
+      "D": "Using time management techniques"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which is an example of an internal time-wasting factor?",
+    "options": {
+      "A": "Procrastinating on tasks",
+      "B": "Setting realistic deadlines",
+      "C": "Prioritizing tasks based on urgency and importance",
+      "D": "Using time management techniques"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can time management help reduce stress?",
+    "options": {
+      "A": "By helping you plan and prioritize tasks",
+      "B": "By increasing workload and deadlines",
+      "C": "By allowing for more breaks and free time",
+      "D": "By creating a sense of urgency and pressure"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of using time management techniques like the Pareto Principle?",
+    "options": {
+      "A": "To identify the most critical tasks that yield the greatest results",
+      "B": "To focus only on urgent tasks",
+      "C": "To allocate time based on the complexity of tasks",
+      "D": "To achieve 100% productivity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can setting realistic deadlines contribute to time management?",
+    "options": {
+      "A": "It helps create a sense of urgency and accountability",
+      "B": "It ensures tasks are completed as quickly as possible",
+      "C": "It allows for flexibility and avoids any pressure",
+      "D": "It eliminates the need for prioritizing task"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which time management technique involves dividing your workday into blocks of time dedicated to specific tasks?",
+    "options": {
+      "A": "Time blocking",
+      "B": "The Pareto Principle",
+      "C": "The ABCD Method",
+      "D": "The Pomodoro Technique"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it essential to avoid overloading your schedule with too many commitments?",
+    "options": {
+      "A": "It reduces stress and prevents burnout",
+      "B": "It allows for more breaks and free time",
+      "C": "It ensures you complete all tasks on time",
+      "D": "It eliminates the need for prioritizing tasks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of the ABCD Method in time management?",
+    "options": {
+      "A": "To categorize tasks based on their urgency and importance",
+      "B": "To prioritize tasks based on complexity",
+      "C": "To eliminate all low-priority tasks",
+      "D": "To ensure all tasks are completed simultaneously"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can time management help improve work-life balance?",
+    "options": {
+      "A": "By allowing for more leisure and personal time",
+      "B": "By increasing the number of work hours",
+      "C": "By reducing the number of tasks to complete",
+      "D": "By eliminating the need for prioritizing tasks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main benefit of using time management techniques?",
+    "options": {
+      "A": "It increases productivity and efficiency",
+      "B": "It eliminates the need for prioritizing tasks",
+      "C": "It reduces the need to set deadlines",
+      "D": "It helps identify time-wasting activities"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of setting specific goals in time management?",
+    "options": {
+      "A": "To focus your efforts and prioritize tasks",
+      "B": "To create a never-ending to-do list",
+      "C": "To track your past achievements",
+      "D": "To allocate time for each task"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can time management help with meeting deadlines?",
+    "options": {
+      "A": "By creating a sense of urgency and accountability",
+      "B": "By avoiding all commitments",
+      "C": "By setting unrealistic deadlines",
+      "D": "By multitasking on multiple tasks at once"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Personality disorders (PD) consist of a loosely bound cluster of subtypes. Which of the following common features are evident in PD?",
+    "options": {
+      "A": "All of these",
+      "B": "They are characterized by an enduring pattern of behavior that deviates markedly from expectations within that culture",
+      "C": "They are associated with unusual ways of interpreting events, unpredictable mood swings, or impulsive behavior",
+      "D": "They result in impairments in social and occupational functioning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What characterizes the tendency of individuals with narcissistic personality disorder to overestimate their abilities and exaggerate their achievements?",
+    "options": {
+      "A": "A pervasive need for admiration",
+      "B": "An inability to monitor reality",
+      "C": "Impulsive behavior such as drug abuse",
+      "D": "Unusual ideas of reference"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The impulsive and unpredictable behavior of individuals with Antisocial Personality Disorder is often due to rapid and erratic switching between:",
+    "options": {
+      "A": "Dysfunctional schemas",
+      "B": "Dysfunctional memories",
+      "C": "Dysfunctional hearing",
+      "D": "Dysfunctional Balance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Research indicates that individuals with Borderline Personality Disorder may have brain abnormalities related to impulsive behavior. Which brain area is commonly associated with this dysfunction?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Circuitry",
+      "C": "Anatomy",
+      "D": "Corpus callosum functioning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The World Health Day is celebrated on ________.",
+    "options": {
+      "A": "7th April",
+      "B": "1st March",
+      "C": "6th October",
+      "D": "10th December"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Cleanliness, physical exercise, rest and sleep are a part of ________.",
+    "options": {
+      "A": "Personal hygiene",
+      "B": "Hygiene",
+      "C": "Social hygiene",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an unhealthy habit?",
+    "options": {
+      "A": "Eating without washing one’s hand",
+      "B": "Sharing food",
+      "C": "Bathing twice a day",
+      "D": "Drinking boiled water"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is not a bacterial disease?",
+    "options": {
+      "A": "All of these",
+      "B": "AIDS",
+      "C": "Dengue",
+      "D": "Measles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following diseases is also known as 'Salmonella enterica serotype Typhi'?",
+    "options": {
+      "A": "Typhoid",
+      "B": "Malaria",
+      "C": "Diarrhea",
+      "D": "Yellow fever"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the main cause of the transmission of the Hepatitis virus?",
+    "options": {
+      "A": "Sharing drug needles",
+      "B": "The bite of a mosquito",
+      "C": "Drinking contaminated water",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is true about contamination?",
+    "options": {
+      "A": "Contamination is caused by the entry of germs into drinking water or edible foods.",
+      "B": "Contamination is caused by the entry of germs by an insect bite",
+      "C": "Contamination is caused by the entry of germs by an animal bite",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following diseases is not caused by bacteria?",
+    "options": {
+      "A": "Poliomyelitis",
+      "B": "Typhoid",
+      "C": "Tuberculosis",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The main cause of contagious disease is _________.",
+    "options": {
+      "A": "All of these",
+      "B": "Contaminated Air",
+      "C": "Contaminated Food",
+      "D": "Poor hygienic conditions"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following factors is necessary for maintaining good health?",
+    "options": {
+      "A": "All of these",
+      "B": "Vaccination",
+      "C": "Balanced diet",
+      "D": "Personal hygiene"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which substance causes increased fat synthesis, dilation of blood vessels, low blood sugar, and stomach inflammation when consumed?",
+    "options": {
+      "A": "Drug addiction and tobacco",
+      "B": "Alcohol",
+      "C": "Tobacco",
+      "D": "Drug addiction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. causes tunnel vision",
+    "options": {
+      "A": "Alcohol",
+      "B": "Smoking",
+      "C": "Barbiturates",
+      "D": "Vitamin A deficiency"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following, when consumed after drinking alcohol, can lead to death?",
+    "options": {
+      "A": "Barbiturate",
+      "B": "Morphine",
+      "C": "Opium",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which drug, when combined with alcohol, causes significant drowsiness but otherwise does not produce a sedative effect?",
+    "options": {
+      "A": "Antihistamine",
+      "B": "Marijuana",
+      "C": "Valium",
+      "D": "Barbiturate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Constituent of alcoholic beverage is …………….",
+    "options": {
+      "A": "Ethyl alcohol",
+      "B": "Propyl alcohol",
+      "C": "Methyl alcohol",
+      "D": "Mix of all of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. is a result of the development of fatty liver syndrome.",
+    "options": {
+      "A": "Synthesis of fat from alcohol",
+      "B": "Synthesis of fatty acids, fat and glycerol",
+      "C": "Synthesis of fat from amino acids",
+      "D": "Excessive synthesis of fat from fatty acids"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. the condition caused by alcoholism that results in fatty acid accumulation in the liver.",
+    "options": {
+      "A": "Cirrhosis",
+      "B": "Neuritis",
+      "C": "Gastritis",
+      "D": "Nephritis"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. is a withdrawal symptom associated with alcohol consumption.",
+    "options": {
+      "A": "Nausea and vomiting",
+      "B": "Delirium",
+      "C": "Swollen and patchy face",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "……………. causes the highest accumulation of fat in the liver.",
+    "options": {
+      "A": "Alcohol",
+      "B": "Meat and egg",
+      "C": "Saturated fat",
+      "D": "Starch"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a consequence of alcohol addiction?",
+    "options": {
+      "A": "Cardiovascular diseases, hypertension and fatty liver syndrome",
+      "B": "Psychosis, hypertension and fatty liver syndrome",
+      "C": "Ulcers, all types of mental illness, vitamin deficiency, cardiovascular diseases",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "One of the most significant contributions of ICT in the field of education…………….",
+    "options": {
+      "A": "Easy access to learning",
+      "B": "Easy access to teaching",
+      "C": "Easy access to workloads",
+      "D": "Easy access to books"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following tools is not associated with Information and Communication Technology (ICT)?",
+    "options": {
+      "A": "Laboratories",
+      "B": "Calculation",
+      "C": "Slideshow",
+      "D": "Video"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "To remain competitive in the growing field of ICT, a leader must continuously keep pace with …………….",
+    "options": {
+      "A": "Update technology",
+      "B": "Creation",
+      "C": "Skill",
+      "D": "Knowledge"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "____________ is a form of marketing communication used to inform or persuade an audience to take some action.",
+    "options": {
+      "A": "Advertising",
+      "B": "Viral video",
+      "C": "Mass Media",
+      "D": "Social Networking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does the phrase “information overload” refer to?",
+    "options": {
+      "A": "When our brains try to process more details than we can handle.",
+      "B": "A momentary reaction to breaking news on television or social media",
+      "C": "Having access to various forms of traditional and digital media",
+      "D": "Hearing something that we don't like the sounds of"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a common effect of experiencing information overload?",
+    "options": {
+      "A": "Our brains become fatigued and unfocused",
+      "B": "We withdraw and stop searching for data",
+      "C": "We only process information facts",
+      "D": "Our brains speed up and process faster"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How have the information age and digital technologies contributed to information overload?",
+    "options": {
+      "A": "We have access to more forms of data than ever before",
+      "B": "Information overload has limited our ability to find data",
+      "C": "The information age has stopped all forms of overload",
+      "D": "Neither has a bearing on information overload"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an important factor in substance abuse?",
+    "options": {
+      "A": "Whether the substances are regularly used by other family members",
+      "B": "Whether the family environment is rural or urban",
+      "C": "Whether you are a twin",
+      "D": "Whether you are born in the winter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In substance abuse, the term self-medication refers to?",
+    "options": {
+      "A": "Amelioration of psychological distress through substance use",
+      "B": "Doctors prescribing their own drugs",
+      "C": "Motive for using a substance",
+      "D": "Deciding the drug of choice"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a substance use disorder (SUD)?",
+    "options": {
+      "A": "All of these",
+      "B": "Alcohol related disorders",
+      "C": "Caffeine related disorders",
+      "D": "Inhalant related disorders"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a hobby?",
+    "options": {
+      "A": "Activities which give us fun and joy are hobby.",
+      "B": "Activities which give us fun and gardening is hobby.",
+      "C": "Activities which make us serious about our work",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the indoor hobby?",
+    "options": {
+      "A": "Reading Books and music.",
+      "B": "Travelling and Reading Books.",
+      "C": "Collecting stamps and swimming.",
+      "D": "Trekking and hiking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is philately?",
+    "options": {
+      "A": "The collecting and study of stamps",
+      "B": "The study of non-collection and postage stamps",
+      "C": "collect and study the ancient coins",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of active?",
+    "options": {
+      "A": "Happiness",
+      "B": "Arrogance",
+      "C": "Ego",
+      "D": "Evolve"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the outdoor hobby?",
+    "options": {
+      "A": "Gardening and travelling.",
+      "B": "Philately",
+      "C": "Numismatics",
+      "D": "Cooking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the synonym word of sporty?",
+    "options": {
+      "A": "Hearty",
+      "B": "Joy",
+      "C": "Leisure",
+      "D": "Sorrow"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "One who collects coins as hobby:",
+    "options": {
+      "A": "Numismatist",
+      "B": "Philatelist",
+      "C": "Ornithologist",
+      "D": "Statistician"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A person who collects or has a great love of books is known as ________?",
+    "options": {
+      "A": "Bibliophile",
+      "B": "Pluviophile",
+      "C": "Cosmopolitan",
+      "D": "Changeling"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "NUMISMATIST: COINS ::",
+    "options": {
+      "A": "Philatelist: Stamps",
+      "B": "Jeweler : Jewels",
+      "C": "Cartographer: Maps",
+      "D": "Geneticist: Chromosomes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A person who pretends to have more knowledge or skill than he really has:",
+    "options": {
+      "A": "Charlatan",
+      "B": "Crook",
+      "C": "Apotheosis",
+      "D": "Renegade"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A Game, which no one wins called_________?",
+    "options": {
+      "A": "Draw",
+      "B": "Tie",
+      "C": "Loss",
+      "D": "Toss"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Activities people enjoy doing during their leisure time.",
+    "options": {
+      "A": "Hobbies",
+      "B": "Schools",
+      "C": "Sports",
+      "D": "Friends"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The state of being pleased or content.",
+    "options": {
+      "A": "Happy",
+      "B": "Indoors",
+      "C": "Outdoors",
+      "D": "Alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The use of skill and imagination to create something.",
+    "options": {
+      "A": "Art",
+      "B": "Music",
+      "C": "Sports",
+      "D": "School"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Earnest Klein has classified habits into;",
+    "options": {
+      "A": "Intentional and non-intentional habits",
+      "B": "Compulsive and non-compulsive habits",
+      "C": "Primary and secondary habits",
+      "D": "Pressure and non-pressure habits"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a person gets hooked on a hobby, he realizes that",
+    "options": {
+      "A": "it has become an integral part of our life",
+      "B": "it has much more benefits than we realized",
+      "C": "it is much more enjoyable to have a hobby",
+      "D": "it is quite essential for us to learn some skills through our hobbies"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "No matter which sort of hobby you are pursuing, your hobby should be:",
+    "options": {
+      "A": "A diversion and a passion",
+      "B": "Useful for you in the long run",
+      "C": "A skill that improves your present circumstances",
+      "D": "Followed through till the end"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The journey of experiencing a hobby is quite:",
+    "options": {
+      "A": "Rewarding in itself",
+      "B": "Challenging for a person",
+      "C": "Demanding in itself",
+      "D": "Inspirational for a person"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Getting a hobby means having a short break from work and doing something you are passionate about which can:",
+    "options": {
+      "A": "Rejuvenate your mind and help prepare you to handle challenges",
+      "B": "Give you a peace of mind and make you feel refreshed",
+      "C": "Help you enhance your skills and push you to success",
+      "D": "Make you enjoy life more as you pursue what you love"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Choose an option that is NOT a benefit of having a hobby.",
+    "options": {
+      "A": "Help us to manage our planned time more beneficially",
+      "B": "Provides an opportunity for us to socialize with people",
+      "C": "Gives us an opportunity to enhance our life",
+      "D": "Makes us more confident in ourselves"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If your hobby gives you .........., then you will be more confident about challenging yourself.",
+    "options": {
+      "A": "A sense of purpose",
+      "B": "Confidence to move forward",
+      "C": "A reason to develop yourself",
+      "D": "Skills that help you in your work"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Choose the following which is NOT a good habit",
+    "options": {
+      "A": "Put sharp objects into eyes and ears",
+      "B": "Avoid talking or laughing while eating",
+      "C": "Use a hanky while coughing or sneezing",
+      "D": "Cutting nails"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The primary reason that smoking cigarettes is bad for our health is that cigarette smoke",
+    "options": {
+      "A": "Kills the cilia in the upper respiratory tract",
+      "B": "Inhibits the ability of hemoglobin to carry blood",
+      "C": "Destroys normal lung cells and grows cancer cells",
+      "D": "Weakens muscles participating in breathing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should not ……………. Water",
+    "options": {
+      "A": "Waste",
+      "B": "Store",
+      "C": "Use",
+      "D": "Save"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should brush our teeth …………. a day",
+    "options": {
+      "A": "Two times",
+      "B": "Four times",
+      "C": "Five times",
+      "D": "One time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should take a bath",
+    "options": {
+      "A": "Every day",
+      "B": "One day",
+      "C": "Once a week",
+      "D": "Once a month"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should keep our books and clothes in their ……………. places.",
+    "options": {
+      "A": "Right",
+      "B": "Dirty",
+      "C": "Wrong",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should throw waste into the ………….",
+    "options": {
+      "A": "Dustbin",
+      "B": "Outside",
+      "C": "Room",
+      "D": "Class"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should always keep our house and class",
+    "options": {
+      "A": "Clean",
+      "B": "Dirty",
+      "C": "Bad",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should share……………things to each other",
+    "options": {
+      "A": "Good",
+      "B": "Bad",
+      "C": "Dirty",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should speak …………..to each other",
+    "options": {
+      "A": "Politely",
+      "B": "Rudely",
+      "C": "Badly",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should spend time with our",
+    "options": {
+      "A": "All of these",
+      "B": "Grandparents",
+      "C": "Siblings",
+      "D": "Parents"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should wash our hands before and after ……………meal",
+    "options": {
+      "A": "Every",
+      "B": "Breakfast",
+      "C": "Lunch",
+      "D": "Dinner"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should wear …………….uniform",
+    "options": {
+      "A": "Clean",
+      "B": "Dirty",
+      "C": "Bad",
+      "D": "None of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should eat …………food",
+    "options": {
+      "A": "Healthy",
+      "B": "Junk food",
+      "C": "Stale",
+      "D": "Unhealthy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should have less ………..food",
+    "options": {
+      "A": "Junk",
+      "B": "Healthy",
+      "C": "Vegetables",
+      "D": "Fruits"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "We should play and exercise ………….day.",
+    "options": {
+      "A": "Everyday",
+      "B": "One day",
+      "C": "Once a week",
+      "D": "Once a month"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What benefits are there in eating a balanced diet?",
+    "options": {
+      "A": "All of these",
+      "B": "Good health",
+      "C": "Good mood and energy",
+      "D": "Improved health and reduced illness"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How many glasses of water should you drink in a day?",
+    "options": {
+      "A": "At least 8 glasses",
+      "B": "More than 12 glasses",
+      "C": "Between 1-3 glasses",
+      "D": "Do not drink water"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "At least how many hours should you sleep each day?",
+    "options": {
+      "A": "8-10",
+      "B": "5-7",
+      "C": "3-5",
+      "D": "1-2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the followings activities is considered a healthy habit?",
+    "options": {
+      "A": "Have cereal with milk and fruits for breakfast",
+      "B": "Sleep six hours a day",
+      "C": "Play a videogame every night",
+      "D": "Watching TV all night"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which is not a healthy eating practice?",
+    "options": {
+      "A": "Eat more fatty foods",
+      "B": "Eat more fruits and vegetables",
+      "C": "Eat more fiber",
+      "D": "Do not eat in a hurry"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "To prevent diseases you must...",
+    "options": {
+      "A": "Cover your mouth when you cough or sneeze",
+      "B": "Eat pizza everyday",
+      "C": "Use toilet paper",
+      "D": "Sing in the shower"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which is the First Meal of the day?",
+    "options": {
+      "A": "Breakfast",
+      "B": "Tea",
+      "C": "Lunch",
+      "D": "Dinner"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What will happen if you eat junk food?",
+    "options": {
+      "A": "we will see bad things happen to our body",
+      "B": "Eat more fruits and vegetables",
+      "C": "have an healthy habit",
+      "D": "burgers taste better than salad"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What should you do if you want to be healthy?",
+    "options": {
+      "A": "eat healthy food everyday",
+      "B": "sleep all day",
+      "C": "eat junk food",
+      "D": "Smile"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a good habit?",
+    "options": {
+      "A": "Washing hand before and after eating food.",
+      "B": "Washing hand before going to toilet.",
+      "C": "Brushing teeth once in week.",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following activities keeps your bones and muscles strong?",
+    "options": {
+      "A": "Exercise",
+      "B": "Brushing",
+      "C": "Bathing",
+      "D": "Eating"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "While handling electric points, we should touch them with _____.",
+    "options": {
+      "A": "Dry hands",
+      "B": "Wet hands",
+      "C": "Iron rod",
+      "D": "Ice"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Dia noticed her mother is reading something written on the medicine bottle before giving the medicine to her sick brother. What do you think she was reading?",
+    "options": {
+      "A": "Checking the expiry date of the medicine",
+      "B": "Reading the name of the doctor",
+      "C": "Finding the amount of the medicine",
+      "D": "Checking the colour of the medicine"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a person gets minor cut, first _____ the cut with water, then apply over it.",
+    "options": {
+      "A": "wash, antiseptic",
+      "B": "wash, cold cream",
+      "C": "remove, Band-Aid",
+      "D": "wash, icepack"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a good habit?",
+    "options": {
+      "A": "Enter into the College bus in a line.",
+      "B": "Getting into a moving college bus.",
+      "C": "Keep your hand outside the moving bus.",
+      "D": "Pushing each other in the moving bus."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The word ‘Lexicography’ is associated with which one of the following?",
+    "options": {
+      "A": "Compilation of dictionary",
+      "B": "Ancient remains",
+      "C": "Edicts",
+      "D": "Decorative writing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A……………. may be defined as an occupation that requires specialized knowledge and intensive academic preparations and to which entry is regulated by a representative body.",
+    "options": {
+      "A": "Profession",
+      "B": "Hobby",
+      "C": "Passion",
+      "D": "Goal"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What age group do most people fall into when they are most exposed to peer pressure?",
+    "options": {
+      "A": "Teenager",
+      "B": "Toddler",
+      "C": "Adult",
+      "D": "Elder"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Give an example of how peer pressure is commonly spread.",
+    "options": {
+      "A": "Verbally and social media",
+      "B": "Verbally",
+      "C": "US Mail service",
+      "D": "Social media"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which solution to peer pressure did we propose?",
+    "options": {
+      "A": "Educate people on the consequences",
+      "B": "Outlaw influences",
+      "C": "Remove social media sites",
+      "D": "Therapy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Due to peer pressure being a major issue in teens, many ______ have been created.",
+    "options": {
+      "A": "Websites",
+      "B": "Stores",
+      "C": "Classrooms",
+      "D": "Coffee stores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If someone repeatedly confronts you, what do you do?",
+    "options": {
+      "A": "Walk away",
+      "B": "Accept",
+      "C": "Fight",
+      "D": "Steal their wallet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main difference between implicit peer pressure and explicit peer pressure?",
+    "options": {
+      "A": "Explicit peer pressure is when someone directly, or explicitly, pressures you into doing something while implicit peer pressure doesn’t include someone actually telling you to do something or pressuring you",
+      "B": "Explicit peer pressure only occurs when someone yells at you to do something – all other forms of peer pressure are implicit",
+      "C": "Implicit peer pressure is when you pressure someone to do something, while explicit peer pressure is when another person pressures you to do something",
+      "D": "Implicit peer pressure happens when you pressure yourself to do something, while explicit peer pressure is when someone else pressures you to do something"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What factor influences implicit peer pressure?",
+    "options": {
+      "A": "Social Influence",
+      "B": "Internal Influence",
+      "C": "Your Mood",
+      "D": "The Weather"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the best way to respond to peer pressure?",
+    "options": {
+      "A": "Be firm in your response and say no that you won’t engage in that activity, and leave if you have to",
+      "B": "Ignore the person pressuring you and give them the silent treatment",
+      "C": "Yell at the person who is peer pressuring you and berate them until they stop",
+      "D": "Succumb to that pressure and do it if it’s not that bad"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The BEST way to refuse an offer to smoke or do drugs is to __________.",
+    "options": {
+      "A": "firmly say \"no\"",
+      "B": "yell \"NO\" and run away as fast as you can",
+      "C": "have your friends tell the person that is offering \"no\"",
+      "D": "say you will do it the next time you are all together"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The BEST way to avoid negative peer pressure is to __________.",
+    "options": {
+      "A": "hang out with friends that share your values and support you",
+      "B": "hang out with people that have bad reputations",
+      "C": "scream \"NO\" and run away whenever you feel pressure",
+      "D": "be aggressive with others so that they leave you alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Situations where negative peer pressure is commonly felt include all of the following EXCEPT:",
+    "options": {
+      "A": "studying in a group for a test",
+      "B": "drugs, alcohol, and tobacco use",
+      "C": "truancy and academic dishonesty",
+      "D": "sexual activity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is NOT a benefit of positive peer pressure?",
+    "options": {
+      "A": "Added stress and pressure",
+      "B": "Encouragement to try new things",
+      "C": "Honest feedback from friends",
+      "D": "Exposure to new things and fun things"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Peer pressure can influence all of the following EXCEPT:",
+    "options": {
+      "A": "The food we are allergic to",
+      "B": "The clothes we wear",
+      "C": "The music we listen to",
+      "D": "The food we eat"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which is an example of peer pressure?",
+    "options": {
+      "A": "A friend wanting you to play even though your doctor advised you to wait",
+      "B": "Assertively saying ‘No’ when someone asks you to drink",
+      "C": "Saying ‘No’ to your relative when they ask you to borrow the car",
+      "D": "Leaving a party when someone brings cigarette"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The main keys to managing stress are",
+    "options": {
+      "A": "All of these",
+      "B": "Recognizing and understanding the signs of stress",
+      "C": "Identifying sources of stress",
+      "D": "Identifying what we can and can’t control"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Symptoms such as moodiness, hostility, and fearfulness are signs that stress is affecting the",
+    "options": {
+      "A": "Emotions",
+      "B": "Body",
+      "C": "Mind",
+      "D": "Behavior"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following causes stress?",
+    "options": {
+      "A": "All of these",
+      "B": "Illness",
+      "C": "Academic Demands",
+      "D": "Loss of a family member"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Taking care of and supporting yourself during stressful times include all of the following except",
+    "options": {
+      "A": "Suppressing true feelings",
+      "B": "Talking with someone about the stress",
+      "C": "Providing some down time for yourself",
+      "D": "Creating an emotional outlet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following are the basic sources of stress",
+    "options": {
+      "A": "All of these",
+      "B": "Social Stressors",
+      "C": "Physiological",
+      "D": "Thoughts"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Examples of environmental stressors are",
+    "options": {
+      "A": "All of these",
+      "B": "Weather",
+      "C": "Traffic",
+      "D": "Substandard housing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Examples of social stressors are",
+    "options": {
+      "A": "All of these",
+      "B": "Financial problems",
+      "C": "Divorce",
+      "D": "Loss of a loved one"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Examples of physiological stressors are",
+    "options": {
+      "A": "All of these",
+      "B": "Menopause",
+      "C": "Giving birth",
+      "D": "Sleep disturbances"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are the characteristics of Positive Stress",
+    "options": {
+      "A": "All of these",
+      "B": "It improves performance",
+      "C": "It feels exciting",
+      "D": "It motivates"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are the characteristics of Negative Stress",
+    "options": {
+      "A": "All of these",
+      "B": "It causes anxiety",
+      "C": "It feels unpleasant",
+      "D": "It decreases performance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is true",
+    "options": {
+      "A": "Negative stress is perceived within our coping abilities",
+      "B": "Positive stress is short-term",
+      "C": "Negative stress can be short or long-term",
+      "D": "Negative stress can lead to mental as well as physical problems"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are the examples of negative stressors",
+    "options": {
+      "A": "All of these",
+      "B": "Unemployment",
+      "C": "Legal problems",
+      "D": "Divorce"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are the examples of positive stressors",
+    "options": {
+      "A": "All of these",
+      "B": "New job",
+      "C": "Having a child",
+      "D": "Buying a home"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following are the physical symptoms of anxiety",
+    "options": {
+      "A": "All of these",
+      "B": "Racing heart",
+      "C": "Sweaty palms",
+      "D": "Flushed cheeks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Anxiety can cause the following moods",
+    "options": {
+      "A": "All of these",
+      "B": "Irritable",
+      "C": "Panicky",
+      "D": "Anxious"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What thoughts come to the mind when you are under negative stress?",
+    "options": {
+      "A": "You think that you cannot cope with the situation",
+      "B": "You think that you can cope with the situation",
+      "C": "You think that everything will get fine eventually",
+      "D": "You think that you will get help immediately"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The symptoms of stress can be divided in to the following categories",
+    "options": {
+      "A": "All of these",
+      "B": "Cognitive",
+      "C": "Emotional",
+      "D": "Physical"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following statements is true",
+    "options": {
+      "A": "Moodiness is an emotional symptom of stress",
+      "B": "Moodiness is a cognitive symptom of stress",
+      "C": "Poor judgment is an emotional symptom of stress",
+      "D": "Agitation is cognitive symptom of stress"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are true about the behavioral symptoms of stress",
+    "options": {
+      "A": "All of these",
+      "B": "The subject starts eating more or less",
+      "C": "The subject starts sleeping more or less",
+      "D": "The subject isolates himself/herself from others"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Aches, shallow breathing and sweating, frequent colds are",
+    "options": {
+      "A": "Physical symptoms of stress",
+      "B": "Behavioral symptoms of stress",
+      "C": "Emotional symptoms of stress",
+      "D": "Cognitive symptoms of stress"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first to describe the “fight or flight response”",
+    "options": {
+      "A": "Walter B. Cannon",
+      "B": "Sigmund Freud",
+      "C": "Atkinson Potter",
+      "D": "Mrunal Sengupta"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "…………………………….. is defined as the optimal amount of stress that helps to promote health and growth.",
+    "options": {
+      "A": "Eustress",
+      "B": "Mistress",
+      "C": "Distress",
+      "D": "Neostress"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a characteristic of the accelerated change in the technology landscape?",
+    "options": {
+      "A": "Increased connectivity",
+      "B": "Slower development of technologies",
+      "C": "Reduced innovation speed",
+      "D": "Minimal market competition"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a disruption caused by technological advancement?",
+    "options": {
+      "A": "Ride-sharing apps replacing taxi services",
+      "B": "Creation of traditional business models",
+      "C": "Longer life cycles of devices",
+      "D": "Increase in face-to-face communication"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why do shorter life cycles of technologies lead to increased e-waste?",
+    "options": {
+      "A": "Because frequent upgrades make older devices obsolete",
+      "B": "Because people store old devices for long periods",
+      "C": "Because there is a decrease in the production of electronic devices",
+      "D": "Because technological improvements reduce device functionality"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What drives high levels of competition in technology markets?",
+    "options": {
+      "A": "Constant innovation by companies",
+      "B": "Reduced consumer demand",
+      "C": "Limited technological innovation",
+      "D": "Longer time between product releases"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A company plans to release a new smartphone model annually to stay competitive. Which characteristic of the technology landscape does this strategy address?",
+    "options": {
+      "A": "High competition",
+      "B": "Reduced R&D investment",
+      "C": "Increased e-waste",
+      "D": "Longer technology life cycles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A new gaming console was recently launched, and its predecessor quickly became obsolete. This is an example of:",
+    "options": {
+      "A": "Frequent upgrades",
+      "B": "Economic pressure",
+      "C": "Increased connectivity",
+      "D": "Job transformation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does the rapid evolution of technology impact job markets?",
+    "options": {
+      "A": "It leads to the creation of new jobs and elimination of old ones",
+      "B": "It limits the demand for innovation",
+      "C": "It stabilizes job roles over time",
+      "D": "It reduces the need for technological education"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following best illustrates the impact of consumer demand in a rapidly changing technology landscape?",
+    "options": {
+      "A": "High demand for advanced AI in communication",
+      "B": "Reduction in device costs over time",
+      "C": "Steady demand for older technological devices",
+      "D": "Limited interest in frequent upgrades"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which impact of accelerated technological change could most negatively affect the environment?",
+    "options": {
+      "A": "Increased e-waste",
+      "B": "Job transformation",
+      "C": "Increased connectivity",
+      "D": "Economic growth"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following strategies is most important for businesses to address shorter technology life cycles?",
+    "options": {
+      "A": "Continuous innovation and product upgrades",
+      "B": "Investing heavily in customer service",
+      "C": "Limiting research and development",
+      "D": "Reducing production to avoid competition"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it important to keep up with technological advances?",
+    "options": {
+      "A": "To remain competitive in the job market",
+      "B": "To avoid learning new skills",
+      "C": "To increase traditional marketing knowledge",
+      "D": "To maintain job roles without changes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of career advancement through continuous learning?",
+    "options": {
+      "A": "Acquiring project management skills to qualify for leadership positions",
+      "B": "Avoiding career shifts by staying in one role",
+      "C": "Transitioning to a non-technical role",
+      "D": "Learning a new language for personal satisfaction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does learning digital marketing contribute to economic resilience?",
+    "options": {
+      "A": "It mitigates the risk of job loss due to shifts in traditional marketing",
+      "B": "It helps avoid technological change",
+      "C": "It limits flexibility in changing environments",
+      "D": "It reduces personal growth needs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is adaptability important in a rapidly changing work environment?",
+    "options": {
+      "A": "To transition between roles or industries when needed",
+      "B": "To specialize in outdated skills",
+      "C": "To stay in a single industry",
+      "D": "To avoid switching roles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A marketing professional learns coding to transition into a tech-related role. This is an example of:",
+    "options": {
+      "A": "Adaptability",
+      "B": "Personal growth",
+      "C": "Job security",
+      "D": "Economic resilience"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A software engineer enrolls in artificial intelligence courses to keep up with industry innovation. This reflects which of the following?",
+    "options": {
+      "A": "Keeping up with technological advances",
+      "B": "Reducing their skill set",
+      "C": "Career stagnation",
+      "D": "Decreasing employability"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the relationship between continuous learning and job security in the context of economic resilience?",
+    "options": {
+      "A": "Continuous learning helps mitigate the risks of job loss due to automation",
+      "B": "Continuous learning focuses only on personal satisfaction",
+      "C": "Continuous learning reduces the need for career advancement",
+      "D": "Continuous learning decreases the ability to adapt to new roles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A professional who learns project management skills to qualify for leadership roles is prioritizing:",
+    "options": {
+      "A": "Career advancement",
+      "B": "Economic resilience",
+      "C": "Flexibility in changing environments",
+      "D": "Personal growth"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the most important reason for continuous learning in an ever-changing job market?",
+    "options": {
+      "A": "To ensure adaptability and job security",
+      "B": "To avoid switching careers",
+      "C": "To increase social interaction",
+      "D": "To limit skill development to one field"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Learning new skills for self-improvement primarily focuses on:",
+    "options": {
+      "A": "Personal growth",
+      "B": "Career advancement",
+      "C": "Economic resilience",
+      "D": "Avoiding innovation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the first step in continuous learning?",
+    "options": {
+      "A": "Identify learning goals",
+      "B": "Join professional networks",
+      "C": "Seek feedback from peers",
+      "D": "Apply skills practically"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of utilizing online resources for continuous learning?",
+    "options": {
+      "A": "Taking an online course in machine learning on Coursera",
+      "B": "Joining a mentoring program",
+      "C": "Reading the latest publications on fintech",
+      "D": "Attending a cybersecurity conference"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is setting clear objectives important in continuous learning?",
+    "options": {
+      "A": "To determine which skills are needed and why",
+      "B": "To limit the need for practical application",
+      "C": "To reduce the need for feedback and reflection",
+      "D": "To avoid networking opportunities"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can reading books and articles contribute to continuous learning?",
+    "options": {
+      "A": "It keeps individuals updated on the latest trends and developments in their field",
+      "B": "It allows participation in professional workshops",
+      "C": "It helps avoid practical application of skills",
+      "D": "It replaces the need for attending seminars and events"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A professional joins a LinkedIn group focused on artificial intelligence and seeks guidance from an expert. This is an example of:",
+    "options": {
+      "A": "Joining professional networks",
+      "B": "Practical application",
+      "C": "Utilizing online resources",
+      "D": "Setting learning goals"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "After learning web development through an online course, a student creates a personal website to practice their skills. This is an example of:",
+    "options": {
+      "A": "Hands-on practice",
+      "B": "Identifying learning goals",
+      "C": "Seeking feedback and reflection",
+      "D": "Attending workshops and seminars"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the connection between practical application and continuous improvement in learning?",
+    "options": {
+      "A": "Hands-on practice allows for real-world application, while feedback helps refine and improve skills",
+      "B": "Continuous improvement can replace the need for setting learning goals",
+      "C": "Practical application prevents the need for continuous improvement",
+      "D": "Practical application is unnecessary if feedback is provided"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If someone attends an industry-specific seminar and reads relevant journals afterward, which two strategies for continuous learning are they utilizing?",
+    "options": {
+      "A": "Attending workshops and reading books and articles",
+      "B": "Setting learning goals and joining professional networks",
+      "C": "Utilizing online resources and continuous reflection",
+      "D": "Practical application and seeking feedback"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which strategy for continuous learning is most effective for keeping up with rapid changes in a technical field?",
+    "options": {
+      "A": "Reading the latest publications and articles",
+      "B": "Setting broad, non-specific learning goals",
+      "C": "Avoiding workshops to focus on independent learning",
+      "D": "Engaging in informal networking rather than structured professional networks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A professional who sets clear learning objectives and actively seeks feedback on their progress is likely to:",
+    "options": {
+      "A": "Achieve more targeted and continuous improvement in their skills",
+      "B": "Minimize the need for practical application",
+      "C": "Become over-reliant on online resources",
+      "D": "Avoid professional development events"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is teamwork?",
+    "options": {
+      "A": "Collaborative effort to work together towards a common goal",
+      "B": "Independent effort to achieve personal goals",
+      "C": "Avoiding collaboration to work more efficiently",
+      "D": "Sharing only individual successes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which skill is essential for ensuring clear and effective exchange of ideas in a team?",
+    "options": {
+      "A": "Communication",
+      "B": "Conflict resolution",
+      "C": "Listening",
+      "D": "Flexibility"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is listening an important aspect of teamwork?",
+    "options": {
+      "A": "It helps understand and consider others' perspectives and feedback",
+      "B": "It limits communication within the team",
+      "C": "It allows team members to work independently",
+      "D": "It reduces the need for conflict resolution"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does flexibility contribute to teamwork?",
+    "options": {
+      "A": "By taking on different roles and tasks as needed",
+      "B": "By avoiding changes in the project",
+      "C": "By enforcing a strict division of responsibilities",
+      "D": "By eliminating the need for task division"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "During a brainstorming session, a team member suggests a solution that no one else considered. This is an example of:",
+    "options": {
+      "A": "Innovation",
+      "B": "Conflict resolution",
+      "C": "Communication failure",
+      "D": "Ignoring feedback"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A project manager divides tasks among team members based on their strengths. This practice improves the team’s:",
+    "options": {
+      "A": "Efficiency",
+      "B": "Flexibility",
+      "C": "Networking",
+      "D": "Conflict management"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the relationship between teamwork and networking in the context of career success?",
+    "options": {
+      "A": "Teamwork encourages networking by building professional relationships that expand opportunities",
+      "B": "Networking allows team members to isolate themselves",
+      "C": "Networking and teamwork are unrelated in career development",
+      "D": "Teamwork hinders the development of professional relationships"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How can conflict resolution contribute to the success of a team?",
+    "options": {
+      "A": "By constructively addressing disagreements to maintain team harmony",
+      "B": "By discouraging open discussions about challenges",
+      "C": "By allowing unresolved conflicts to persist",
+      "D": "By avoiding any communication about disagreements"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which skill is most crucial in maintaining effective collaboration within a team that faces frequent changes in roles and tasks?",
+    "options": {
+      "A": "Flexibility",
+      "B": "Innovation",
+      "C": "Conflict resolution",
+      "D": "Networking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A team achieves its goal more efficiently through shared knowledge and collaboration. Which of the following best explains the importance of collaboration in this scenario?",
+    "options": {
+      "A": "Shared knowledge and pooled efforts lead to more effective goal achievement",
+      "B": "Team members should focus on independent work to increase efficiency",
+      "C": "Collaboration limits the need for communication",
+      "D": "Conflict resolution is unnecessary when collaboration exists"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which trait is essential for ensuring that responsibilities are consistently met in a team?",
+    "options": {
+      "A": "Reliability",
+      "B": "Proactivity",
+      "C": "Adaptability",
+      "D": "Respect"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does adaptability in teamwork refer to?",
+    "options": {
+      "A": "Being flexible and open to changes",
+      "B": "Taking initiative and offering help",
+      "C": "Acknowledging team members' contributions",
+      "D": "Completing tasks on time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is respect important in teamwork?",
+    "options": {
+      "A": "It values and appreciates the contributions of others, fostering a positive team environment",
+      "B": "It prevents team members from contributing ideas",
+      "C": "It ensures deadlines are met consistently",
+      "D": "It limits the need for collaboration"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does proactivity benefit a team?",
+    "options": {
+      "A": "It encourages taking initiative and offering help to team members without being asked",
+      "B": "It ensures team members focus only on their own tasks",
+      "C": "It limits communication between team members",
+      "D": "It allows team members to wait for instructions before helping others"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A team member sees that another colleague is struggling to meet a deadline. The team member steps in to help, ensuring the project stays on track. This is an example of:",
+    "options": {
+      "A": "Proactivity",
+      "B": "Adaptability",
+      "C": "Conflict management",
+      "D": "Reliability"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a team meeting, one member provides clear and constructive feedback to improve the team's work. This is an example of:",
+    "options": {
+      "A": "Effective communication",
+      "B": "Respect",
+      "C": "Continuous learning",
+      "D": "Collaboration"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which two traits or actions combined are likely to prevent delays in a team project?",
+    "options": {
+      "A": "Reliability and proactivity",
+      "B": "Reliability and conflict management",
+      "C": "Collaboration and continuous learning",
+      "D": "Respect and adaptability"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a team member listens actively during a disagreement and helps find a compromise, they are demonstrating which teamwork skill?",
+    "options": {
+      "A": "Conflict management",
+      "B": "Proactivity",
+      "C": "Adaptability",
+      "D": "Respect"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A team member regularly attends workshops to improve their skills, which then helps the team’s progress. This establishes:",
+    "options": {
+      "A": "Continuous learning",
+      "B": "Proactivity",
+      "C": "Conflict resolution",
+      "D": "Adaptability"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which combination of traits is most likely to foster a productive team environment where all members feel valued and motivated?",
+    "options": {
+      "A": "Respect and collaboration",
+      "B": "Respect and conflict management",
+      "C": "Reliability and proactivity",
+      "D": "Proactivity and adaptability"
+    },
+    "answer": "A"
+  }
 ]

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 import { shuffleArray } from "../utils";
 
 function Question({ question, options, answer, selectionRef, showAnswers }) {
@@ -11,7 +11,10 @@ function Question({ question, options, answer, selectionRef, showAnswers }) {
 
   // Only shuffle options once when the component mounts
   useEffect(() => {
-    const optionsArray = Object.entries(options).map(([key, value]) => ({ key, value }));
+    const optionsArray = Object.entries(options).map(([key, value]) => ({
+      key,
+      value,
+    }));
     setShuffledOptions(shuffleArray(optionsArray));
   }, [options]); // Dependency on options to shuffle only when they change
 
@@ -19,7 +22,13 @@ function Question({ question, options, answer, selectionRef, showAnswers }) {
     if (showAnswers) {
       return option.key === ans ? "bg-green" : "";
     }
-    return `${(option.key === selectedOption) ? (option.key === ans ? "bg-green" : "bg-red") : ""}`;
+    return `${
+      option.key === selectedOption
+        ? option.key === ans
+          ? "bg-green"
+          : "bg-red"
+        : ""
+    }`;
   };
 
   const handleClick = (option) => {
@@ -27,7 +36,7 @@ function Question({ question, options, answer, selectionRef, showAnswers }) {
       setSelectedOption(option.key);
       selectionRef.current = {
         ...selectionRef.current,
-        index: option.key
+        index: option.key,
       };
     }
   };
@@ -37,7 +46,13 @@ function Question({ question, options, answer, selectionRef, showAnswers }) {
       <p className="question">{question}</p>
       <ol>
         {shuffledOptions.map((option, index) => (
-          <li key={index} className={getStyle(option)} onClick={() => { handleClick(option) }}>
+          <li
+            key={index}
+            className={getStyle(option)}
+            onClick={() => {
+              handleClick(option);
+            }}
+          >
             {option.value}
           </li>
         ))}
